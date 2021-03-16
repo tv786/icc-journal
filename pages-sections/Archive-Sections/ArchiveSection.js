@@ -46,7 +46,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2019june-1.pdf"
+                        href={require("../Documents/2019june-1.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -72,7 +72,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2019june-2.pdf"
+                        href={require("../Documents/2019june-2.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -100,7 +100,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2019june-3.pdf"
+                        href={require("../Documents/2019june-3.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -126,7 +126,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2019june-4.pdf"
+                        href={require("../Documents/2019june-4.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -152,7 +152,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2019june-5.pdf"
+                        href={require("../Documents/2019june-5.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -179,7 +179,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2019june-6.pdf"
+                        href={require("../Documents/2019june-6.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -207,7 +207,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2019june-7.pdf"
+                        href={require("../Documents/2019june-7.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -233,7 +233,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2019june-8.pdf"
+                        href={require("../Documents/2019june-8.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -259,7 +259,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2019june-9.pdf"
+                        href={require("../Documents/2019june-9.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -284,7 +284,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2019june-10.pdf"
+                        href={require("../Documents/2019june-10.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -311,7 +311,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2019june-Editorial-Inaugural Volume-ICC.pdf"
+                        href={require("../Documents/2019june-Editorial-Inaugural Volume-ICC.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -358,7 +358,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2019sep-1.pdf"
+                        href={require("../Documents/2019sep-1.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -385,7 +385,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2019sep-2.pdf"
+                        href={require("../Documents/2019sep-2.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -411,7 +411,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2019sep-3.pdf"
+                        href={require("../Documents/2019sep-3.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -437,7 +437,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2019sep-4.pdf"
+                        href={require("../Documents/2019sep-4.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -482,7 +482,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2020jan-1.pdf"
+                        href={require("../Documents/2020jan-1.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -508,7 +508,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2020jan-2.pdf"
+                        href={require("../Documents/2020jan-2.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -534,7 +534,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2020jan-3.pdf"
+                        href={require("../Documents/2020jan-3.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -561,7 +561,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2020jan-4.pdf"
+                        href={require("../Documents/2020jan-4.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -587,7 +587,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2020jan-5.pdf"
+                        href={require("../Documents/2020jan-5.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -633,7 +633,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2020apr-1.pdf"
+                        href={require("../Documents/2020apr-1.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -659,7 +659,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2020apr-2.pdf"
+                        href={require("../Documents/2020apr-2.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -685,7 +685,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2020apr-3.pdf"
+                        href={require("../Documents/2020apr-3.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -711,7 +711,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2020apr-4.pdf"
+                        href={require("../Documents/2020apr-4.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -756,7 +756,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2020jul-aug-1.pdf"
+                        href={require("../Documents/2020jul-aug-1.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -781,7 +781,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2020jul-aug-2.pdf"
+                        href={require("../Documents/2020jul-aug-2.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -807,7 +807,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2020jul-aug-3.pdf"
+                        href={require("../Documents/2020jul-aug-3.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -833,7 +833,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2020jul-aug-4.pdf"
+                        href={require("../Documents/2020jul-aug-4.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
@@ -859,7 +859,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href="Documents/2020jul-aug-5.pdf"
+                        href={require("../Documents/2020jul-aug-5.pdf")}
                         target="_blank"
                         style={{ color: '#1565d4' }}
                       >
