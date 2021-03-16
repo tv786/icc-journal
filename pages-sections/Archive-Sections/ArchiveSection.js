@@ -806,7 +806,7 @@ export default function AdvisoryBoard() {
                     <b>
                       Title :{' '}
                       <a
-                        href={href="#"("../Documents/2020jul-aug-2.pdf")}
+                        href="#"
                         onClick={(event) => { event.preventDefault(); window.open("../Documents/2020jul-aug-2.pdf"); }}
                         target="_blank"
                         style={{ color: '#1565d4' }}
