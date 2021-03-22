@@ -42,7 +42,7 @@ export default function AdvisoryBoard() {
     <div className={classes.section}>
       <h2 className={classes.title} style={{ textAlign: "center" }}>
         {" "}
-        Archive
+        Archives
       </h2>
       <Link href="/vol1-issue1-june2019">
         <ExpansionPanel style={{ borderRadius: "10px", marginBottom: "20px" }}>
