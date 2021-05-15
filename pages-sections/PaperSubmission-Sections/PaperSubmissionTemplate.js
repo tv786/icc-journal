@@ -55,7 +55,7 @@ export default function Instruction() {
               <Button
                 color="primary"
                 target="_blank"
-                href="https://drive.google.com/file/d/1R8ZlvIia2s5EpOK44Sh73xZRi4B0c7Av/view?usp=sharing"
+                href="IJICC_Template.doc"
               >
                 {' '}
                 <strong> Get Paper Template</strong>
