@@ -177,6 +177,11 @@ automatic speech recognition”, pp. 1-9</li>
                 <h5>
                   <b>Pages: 1-6</b>
                 </h5>
+                <h5>
+                <b>Cite As </b>
+                <br>
+                <p>Dharmalingam, M, &Praveenkumar, G.D. (2020). Hierarchical Image Classification on Bayesian Cascade Neural Learning. Innovative computing and communication: an international journal, 1(3), 1–6.<br> http://doi.org/10.5281/zenodo.4743651</p>
+                </h5>
               </CardBody>
             </Card>
           </GridItem>
@@ -253,6 +258,11 @@ Health · December 2017 DOI: 10.1186/s12889-016-3975-</li>
                 </h5>
                 <h5>
                   <b>Pages: 7-12</b>
+                </h5>
+                <h5>
+                <b>Cite As </b>
+                <br>
+                <p>Kumar, Aditya, Rajput, Rani Rupali, Srivastava, Ashi, Singh, Prabhat, &Khatter, Harsh. (2020). SAVE A LIFE-DONATE UNUSED MEDICINES. Innovative computing and communication: an international journal, 1(3), 7–12.<br> http://doi.org/10.5281/zenodo.4743656</p>
                 </h5>
               </CardBody>
             </Card>
@@ -358,6 +368,11 @@ Volume 6, Issue IV, April 2018</li>
                 </h5>
                 <h5>
                   <b>Pages: 13-18</b>
+                </h5>
+                <h5>
+                <b>Cite As </b>
+                <br>
+                <p>Singhal, Sanchit, Garg, Vatsal, Garg, Osho, Singh, Prabhat, &Khatter, Harsh. (2020). AI based Chatbot for Human Assistance. Innovative computing and communication: an international journal, 1(3), 13–18.<br> http://doi.org/10.5281/zenodo.4743741</p>
                 </h5>
               </CardBody>
             </Card>
@@ -472,6 +487,11 @@ January 2017.</li>
                 <h5>
                   <b>Pages: 19-24</b>
                 </h5>
+                <h5>
+                <b>Cite As </b>
+                <br>
+                <p>Goel, Abhay, Sharma, Abhishek, & Gupta, Deepak. (2020). Immigration Control and Management System using Blockchain. Innovative computing and communication: an international journal, 1(3), 19–24.<br> http://doi.org/10.5281/zenodo.4743748</p>
+                </h5>
               </CardBody>
             </Card>
           </GridItem>
@@ -584,6 +604,11 @@ ent/uploads/2014/01/EmailStatistics-Report-
                 </h5>
                 <h5>
                   <b>Pages: 25-29</b>
+                </h5>
+                <h5>
+                <b>Cite As </b>
+                <br>
+                <p>Singhal, Yash, Singh, Yash Kumar, Agarwal, Utkarsh, Singh, Prabhat, &Khatter, Harsh. (2020). Voice Based Email for Visually Impaired. Innovative computing and communication: an international journal, 1(3), 25–29.<br> http://doi.org/10.5281/zenodo.4743760</p>
                 </h5>
               </CardBody>
             </Card>

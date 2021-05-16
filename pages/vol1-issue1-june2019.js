@@ -186,6 +186,11 @@ Science, vol. 03, pp872-880, 2011.</li>
                 <h5>
                   <b>Pages: 1-8 </b>
                 </h5>
+                <h5>
+                <b>Cite As </b>
+                <br>
+                <p>Magow, Siddhant, Kapoor, Harshit, Bindra, Chiranjeev Singh, & Gupta, Deepak. (2019). GEO PROFILING MAPS BASED ON CRIME. Innovative Computing and Communication: An International Journal, 1(1), 1–8.<br> http://doi.org/10.5281/zenodo.4743369</p>
+                </h5>
                 <br />
               </CardBody>
             </Card>
@@ -305,6 +310,11 @@ Reflections, Radha Publication, New Delhi.</li>
                 </h5>
                 <h5>
                   <b>Pages: 9-14 </b>
+                </h5>
+                <h5>
+                <b>Cite As </b>
+                <br>
+                <p>Sharma, Deepa, Ramachandran, S., & Kaur, Mandeep. (2019). Analysis of Gender Inequality Indian Women's faced on Workplace. Innovative computing and communication: an international journal, 1(1), 9–13.<br> http://doi.org/10.5281/zenodo.4743412</p>
                 </h5>
               </CardBody>
             </Card>
@@ -427,6 +437,11 @@ http://dx.doi.org/10.1016/j.eswa.2015.10.039</li>
                 </h5>
                 <h5>
                   <b>Pages: 15-18</b>
+                </h5>
+                <h5>
+                <b>Cite As </b>
+                <br>
+                <p>Gupta, Deepak, Verma, Nimish, Sehgal, Mayank, & Nitesh. (2019). Feature Selection using MultiObjective Grey Wolf Optimization Algorithm. Innovative computing and communication: an international journal, 1(1), 15–18.<br> http://doi.org/10.5281/zenodo.4743483</p>
                 </h5>
               </CardBody>
             </Card>
@@ -619,6 +634,11 @@ and Theoretical Nenoscience, Vol 15,
                 <h5>
                   <b>Pages: 19-28</b>
                 </h5>
+                <h5>
+                <b>Cite As </b>
+                <br>
+                <p>Dwivedi, Umesh, & Dev, Harsh. (2019). EQUIVALENCE DATA GENERATION TECHNIQUE IN CASE OF DATA LOSS DUE TO FAULT OCCURRENCE IN VIRTUAL MACHINES USED IN CLOUD COMPUTING. Innovative computing and communication: an international journal, 1(1), 19–27.<br> http://doi.org/10.5281/zenodo.4743508</p>
+                </h5>
               </CardBody>
             </Card>
           </GridItem>
@@ -770,6 +790,11 @@ https://doi.org/10.1145/2480741.2480752</li>
                 <h5>
                   <b>Pages: 29-34</b>
                 </h5>
+                <h5>
+                <b>Cite As </b>
+                <br>
+                <p>Sharma, Ashish, Gupta, Deepak, Verma, Nimish, Sehgal, Mayank, & Nitesh. (2019). Optimizing Machine Learning Models using Multiobjective Grasshopper Optimization Algorithm. Innovative computing and communication: an international journal, 1(1), 29–33.<br> http://doi.org/10.5281/zenodo.4743516</p>
+                </h5>
               </CardBody>
             </Card>
           </GridItem>
@@ -903,6 +928,11 @@ Electrical and Computer Engineering (CCECE), pp. 1-5, April-May
                 <h5>
                   <b>Pages: 35-46</b>
                 </h5>
+                <h5>
+                <b>Cite As </b>
+                <br>
+                <p>Mathur, Raaghav, Khanna, Ashish, & Singh, Abhijeet. (2019). Early Detection of Ransomware Exploits Using Snort. Innovative computing and communication: an international journal, 1(1), 35–45.<br> http://doi.org/10.5281/zenodo.4743527</p>
+                </h5>
               </CardBody>
             </Card>
           </GridItem>
@@ -984,6 +1014,11 @@ Delhi.</li>
                 </h5>
                 <h5>
                   <b>Pages: 47-54</b>
+                </h5>
+                <h5>
+                <b>Cite As </b>
+                <br>
+                <p>Shukla, Manisha. (2019). An Inflation Insinuation in Industries (MSME of Uttar Pradesh) Growth. Innovative computing and communication: an international journal, 1(1), 47–54.<br> http://doi.org/10.5281/zenodo.4743537</p>
                 </h5>
               </CardBody>
             </Card>
@@ -1247,6 +1282,11 @@ Magazine, vol. 54,no. 7, pp. 40–47, 2016.</li>
                 <h5>
                   <b>Pages: 55-64</b>
                 </h5>
+                <h5>
+                <b>Cite As </b>
+                <br>
+                <p>Kochhar, Akanksha, & Sharma, Prerna. (2019). Machine Learning with Internet of Things: A Comprehensive Survey. Innovative computing and communication: an international journal, 1(1), 55–64.<br> http://doi.org/10.5281/zenodo.4743557</p>
+                </h5>
               </CardBody>
             </Card>
           </GridItem>
@@ -1459,6 +1499,11 @@ Technologies; 2014. p. 286–90. DOI:
                 <h5>
                   <b>Pages: 65-74 </b>
                 </h5>
+                <h5>
+                <b>Cite As </b>
+                <br>
+                <p>sharma, Moolchand, Gupta, Shubbham, &Deswal, Suman. (2019). BLACK HOLE DETECTION AND PREVENTION IN AODV PROTOCOL USING MODIFIED CUCKOO SEARCH ALGORITHM. Innovative computing and communication: an international journal, 1(1), 65–74.<br> http://doi.org/10.5281/zenodo.4743563</p>
+                </h5>
               </CardBody>
             </Card>
           </GridItem>
@@ -1540,6 +1585,11 @@ ifference-big-data-iot/</li>
                 </h5>
                 <h5>
                   <b>Pages: 75-78 </b>
+                </h5>
+                <h5>
+                <b>Cite As </b>
+                <br>
+                <p>Jenet, TheresBemila, &Bapte, Sonali. (2019). Comparative Analysis of Big Data Analytics and IoT Technologies. Innovative computing and communication: an international journal, 1(1), 75–77.<br> http://doi.org/10.5281/zenodo.4743568</p>
                 </h5>
               </CardBody>
             </Card>

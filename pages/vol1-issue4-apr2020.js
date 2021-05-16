@@ -178,6 +178,11 @@ Forecasting Using Sliding Window Algorithm,2013.</li>
                 <h5>
                   <b>Pages: 1-5</b>
                 </h5>
+                <h5>
+                <b>Cite As </b>
+                <br>
+                <p>Gupta, Karan, Dhamija, Luv, &Behl, Ritin. (2020). COVID-19 outbreak analysis and predictions for future cases. Innovative computing and communication: an international journal, 1(4), 1–5.<br> http://doi.org/10.5281/zenodo.4743770</p>
+                </h5>
               </CardBody>
             </Card>
           </GridItem>
@@ -285,6 +290,11 @@ preprint arXiv:1412.6575 (2014).</li>
                 <h5>
                   <b>Pages: 7-15</b>
                 </h5>
+                <h5>
+                <b>Cite As </b>
+                <br>
+                <p>Chaudhary, Srishty, Mehra,Tanya, Singh, Prabhat, &Khatter, Harsh. (2020). FLY BULLETIN: AN INTELLIGENT NEWS APP. Innovative computing and communication: an international journal, 1(4), 7–15.<br> http://doi.org/10.5281/zenodo.4743772</p>
+                </h5>
               </CardBody>
             </Card>
           </GridItem>
@@ -361,6 +371,11 @@ http://repository.cmu.edu/cgi/viewcontent.cgi?article=2874
                 </h5>
                 <h5>
                   <b>Pages: 17-19</b>
+                </h5>
+                <h5>
+                <b>Cite As </b>
+                <br>
+                <p>Vats, Navender, Iqbal, Md Abid, & Aggarwal, Suraj. (2020). AUTONOMOUS CAR USING TENSORFLOW. Innovative Computing and Communication: An International Journal, 1(4), 17–19.<br> http://doi.org/10.5281/zenodo.4743778</p>
                 </h5>
               </CardBody>
             </Card>
@@ -485,6 +500,11 @@ browsers”, ICCIC 2013.</li>
                 </h5>
                 <h5>
                   <b>Pages: 21-25</b>
+                </h5>
+                <h5>
+                <b>Cite As </b>
+                <br>
+                <p>Dang, Nobel, Thukral, Saksham, & Khanna, Ashish. (2020). Voice Prescription using Name Entity Recognition. Innovative computing and communication: an international journal, 1(4), 21–25.<br> http://doi.org/10.5281/zenodo.4743795</p>
                 </h5>
               </CardBody>
             </Card>
