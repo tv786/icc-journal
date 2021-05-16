@@ -127,8 +127,8 @@ Electronics Notes, www.electronicsnotes.com/articles/test-methods/labview/what
                 </h5>
                 <h5>
                 <b>Cite As </b>
-                <br>
-                <p>NAYAK, NIMIT, SINGH, SAHIB, SINGH, RAJATDEEP, SINGH, RAMANDEEP, & DAWAR, PARUL. (2019). RC Car Using LabVIEW And Arduino. Innovative computing and communication: an international journal, 1(2), 1–5.<br> http://doi.org/10.5281/zenodo.4743578</p>
+                <br/>
+                <p>NAYAK, NIMIT, SINGH, SAHIB, SINGH, RAJATDEEP, SINGH, RAMANDEEP, & DAWAR, PARUL. (2019). RC Car Using LabVIEW And Arduino. Innovative computing and communication: an international journal, 1(2), 1–5.<br/> http://doi.org/10.5281/zenodo.4743578</p>
                 </h5>
               </CardBody>
             </Card>
@@ -280,8 +280,8 @@ Phenomena in Cereals, Legumes and Oilseeds,
                 </h5>
                 <h5>
                 <b>Cite As </b>
-                <br>
-                <p>Sahni, Srishti, Kidwai, Farzil, Sharma, Prerna, & Singhal, Harshit. (2019). Implementation of IoT to Minimize Post-harvest Losses. Innovative computing and communication: an international journal, 1(2), 7–15.<br> http://doi.org/10.5281/zenodo.4743630</p>
+                <br/>
+                <p>Sahni, Srishti, Kidwai, Farzil, Sharma, Prerna, & Singhal, Harshit. (2019). Implementation of IoT to Minimize Post-harvest Losses. Innovative computing and communication: an international journal, 1(2), 7–15.<br/> http://doi.org/10.5281/zenodo.4743630</p>
                 </h5>
               </CardBody>
             </Card>
@@ -399,8 +399,8 @@ TRANSACTIONS ON MULTIMEDIA, VOL. 13, NO.
                 </h5>
                 <h5>
                 <b>Cite As </b>
-                <br>
-                <p>Harathas, Sai Rakshit S. (2019). Hand Gesture Recognition using Kinect Sensor. Innovative computing and communication: an international journal, 1(2), 17–20.<br> http://doi.org/10.5281/zenodo.4743634</p>
+                <br/>
+                <p>Harathas, Sai Rakshit S. (2019). Hand Gesture Recognition using Kinect Sensor. Innovative computing and communication: an international journal, 1(2), 17–20.<br/> http://doi.org/10.5281/zenodo.4743634</p>
                 </h5>
               </CardBody>
             </Card>
@@ -484,8 +484,8 @@ mobile robots using thermal vision", Robotics and Autonomous Systems, 54, pp. 72
                 </h5>
                 <h5>
                 <b>Cite As </b>
-                <br>
-                <p>Malhotra, Piyush, &Dawar, Parul. (2019). Robotic Arm Control using LabView. Innovative computing and communication: an international journal, 1(2), 21–24.<br> http://doi.org/10.5281/zenodo.4743644</p>
+                <br/>
+                <p>Malhotra, Piyush, &Dawar, Parul. (2019). Robotic Arm Control using LabView. Innovative computing and communication: an international journal, 1(2), 21–24.<br/> http://doi.org/10.5281/zenodo.4743644</p>
                 </h5>
               </CardBody>
             </Card>

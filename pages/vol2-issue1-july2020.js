@@ -190,8 +190,8 @@ pp. 29-34,</li>
                 </h5>
                 <h5>
                 <b>Cite As </b>
-                <br>
-                <p>Nishanthi, P, Udayakumar, E, Vaishnavi, M, & Srihari, K. (2020). Design of smart Home monitoring healthcare system using Internet of things. Innovative computing and communication: an international journal, 2(1), 1–5.<br> http://doi.org/10.5281/zenodo.4743804</p>
+                <br/>
+                <p>Nishanthi, P, Udayakumar, E, Vaishnavi, M, & Srihari, K. (2020). Design of smart Home monitoring healthcare system using Internet of things. Innovative computing and communication: an international journal, 2(1), 1–5.<br/> http://doi.org/10.5281/zenodo.4743804</p>
                 </h5>
               </CardBody>
             </Card>
@@ -281,8 +281,8 @@ p.1673.</li>
                 </h5>
                 <h5>
                 <b>Cite As </b>
-                <br>
-                <p>Shankar, K. (2020). Computer Aided Diagnosis Model for Lung Cancer Prediction using Gabor Filtering with Artificial Neural Networks. Innovative computing and communication: an international journal, 2(1), 7–9.<br> http://doi.org/10.5281/zenodo.4743812</p>
+                <br/>
+                <p>Shankar, K. (2020). Computer Aided Diagnosis Model for Lung Cancer Prediction using Gabor Filtering with Artificial Neural Networks. Innovative computing and communication: an international journal, 2(1), 7–9.<br/> http://doi.org/10.5281/zenodo.4743812</p>
                 </h5>
               </CardBody>
             </Card>
@@ -361,8 +361,8 @@ of Computer and Information Technology. 03. 1310-1315.</li>
                 </h5>
                 <h5>
                 <b>Cite As </b>
-                <br>
-                <p>Arya, Ashima, Juneja, Sapna, &Juneja, Abhinav. (2020). One QR code for Ticketing System. Innovative computing and communication: an international journal, 2(1), 11–15.<br> http://doi.org/10.5281/zenodo.4743817</p>
+                <br/>
+                <p>Arya, Ashima, Juneja, Sapna, &Juneja, Abhinav. (2020). One QR code for Ticketing System. Innovative computing and communication: an international journal, 2(1), 11–15.<br/> http://doi.org/10.5281/zenodo.4743817</p>
                 </h5>
               </CardBody>
             </Card>
@@ -519,8 +519,8 @@ Networks.</li>
                 </h5>
                 <h5>
                 <b>Cite As </b>
-                <br>
-                <p>Sharma, Moolchand, Sharma, Prerna, Jha, Manish Kumar, & Singh, Rohan. (2020). MOTION TRANSFER IN VIDEOS USING DCGAN. Innovative computing and communication: an international journal, 2(1), 17–24.<br> http://doi.org/10.5281/zenodo.4743820</p>
+                <br/>
+                <p>Sharma, Moolchand, Sharma, Prerna, Jha, Manish Kumar, & Singh, Rohan. (2020). MOTION TRANSFER IN VIDEOS USING DCGAN. Innovative computing and communication: an international journal, 2(1), 17–24.<br/> http://doi.org/10.5281/zenodo.4743820</p>
                 </h5>
               </CardBody>
             </Card>
@@ -591,8 +591,8 @@ for images,” IEEE Trans. Image Process., vol. 10, no. 5, pp.
                 </h5>
                 <h5>
                 <b>Cite As </b>
-                <br>
-                <p>Ilayaraja, M. (2020). An Improved K-Means Clustering with Machine Learning Based Sentiment Analysis and Classification Model. Innovative computing and communication: an international journa, 2(1), 25–29.<br> http://doi.org/10.5281/zenodo.4743822</p>
+                <br/>
+                <p>Ilayaraja, M. (2020). An Improved K-Means Clustering with Machine Learning Based Sentiment Analysis and Classification Model. Innovative computing and communication: an international journa, 2(1), 25–29.<br/> http://doi.org/10.5281/zenodo.4743822</p>
                 </h5>
               </CardBody>
             </Card>
