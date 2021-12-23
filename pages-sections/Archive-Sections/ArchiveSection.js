@@ -129,6 +129,24 @@ export default function AdvisoryBoard() {
           </ExpansionPanelSummary>
         </ExpansionPanel>
       </Link>
+      /*new container*/
+      <Link href="/vol2-issue2-oct2020">
+        <ExpansionPanel style={{ borderRadius: "10px", marginBottom: "20px" }}>
+          <ExpansionPanelSummary
+            expandIcon={<ExpandMoreIcon />}
+            aria-controls="panel1a-content"
+            id="panel1a-header"
+          >
+            <Typography className={classes.heading}>
+              {" "}
+              <h3>
+                {" "}
+                <b>Vol. 2, Issue 2, October/November 2020 </b>{" "}
+              </h3>
+            </Typography>
+          </ExpansionPanelSummary>
+        </ExpansionPanel>
+      </Link>
       />
     </div>
   );
