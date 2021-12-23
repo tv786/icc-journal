@@ -48,150 +48,156 @@ export default function AdvisoryBoard() {
                       href="#"
                       onClick={(event) => {
                         event.preventDefault();
-                        window.open("2020jul-aug-1.pdf");
+                        window.open("2020oct-1.pdf");
                       }}
                       target="_blank"
                       style={{ color: "#1565d4" }}
                     >
                       {" "}
-                      Design of smart Home monitoring healthcare system using
-                      Internet of things
+                     ConvPose : Application of CNN for Estimating Human Poses
                     </a>{" "}
                   </b>
                 </h4>
                 <h5>
-                  <b>Author(s): </b> P. Nishanthi, E. Udayakumar, M. Vaishnavi,
-                  K. Srihari
+                  <b>Author(s): </b> Vividha, Anjali Khandelwal, Anubhav Singh, Preeti Nagrath, Narina Thakur
                 </h5>
                 <h5>
-                  <b>Abstract: </b> The issue looked by most old individuals
-                  living alone at home is their unexpected frailty conditions.
-                  Many of the individuals around us have numerous medical
-                  problems such diabetes, blood pressure, thyroid and
-                  significantly more wellbeing issues. So, in such a bustling
-                  life they neglect to take medication on time. In this venture
-                  home wellbeing checking utilizing IoT is proposed. The
-                  Internet of Things (IoT) has been exhaustively used to
-                  interconnect the accessible clinical assets and offer smart,
-                  trustworthy and viable remedial organizations association to
-                  the older people. Prosperity looking for dynamic and helped
-                  living is one of the rules that can utilize the IoT central
-                  focuses to improve the more settled lifestyle. The proposed
-                  structure gathers the information it to the cloud where it is
-                  managed and dismembered. The advancement of a home wellbeing
-                  observing framework which targets improving the wellbeing and
-                  social insurance.
+                  <b>Abstract: </b> Human pose estimation has always been a chal- lenging problem, especially in  the  detection  of  human  joints  in the various body poses in  order  to  get  a  posture  frame.  This trend leads to several architectures and models that are computationally expensive and require costly pre-training of datasets and hardware equipment, also it leads problem in comparing other techniques with replicate existing outcomes. Therefore,toresolvethisissue,thispaper,discussesthechallenges faced in detecting human joints and give an overview of the substantial research work done in this area. In this paper, an efficient CNN-based regression model has been developed that can easily be trained on mid-run  inimi GPU towards estimation of body key points and identifying the joints that result in low loss value, for the estimation of the MPII dataset and its sub-regions. This technique shows consistent improvement over the dataset where the data was curated and crafted as per the needs. The dataset images were cropped to increase the focus on the humans in the images. This paper modifies the images excluding the not required background details, thus only training the human body image pixels in the proposed network.  The paper  alsoshows the results obtained by the proposed model with the modelled dataset.
+Index Terms—Human pose estimation, MPII human pose dataset, CNN, ConvNets.
+
                 </h5>
                 <h5>
                     <b>Refrences: </b>
                     <ol>
-                        <li>Ali Mubarakov and et.al. "Assistive healthcare home monitoring
-system for elderly people" IEEE Int. Conf. on Appl of Informtin &
-Comm Tech, 2016.</li>
-                        <li>Rainer Lutze and et.al., “Personal Health Assistne for Elderly people
-via Smartwatch based motin Analysis", IEEE Int. Conf on Healthcare
-informatics, 2017.</li>
-                        <li>Dr.K.Srihari and et.al, “Automatic Battry Replacemnt of Robot”,
-Advncs in Naturl & Applid Scincs, vol 9, pp.33-38, 2015.</li>
-                        <li>Yu-Fan and et.al. ”Home monitoring system based internet of things”,
-IEEE Int. conf. on Applied System Innvacatn, 2018.</li>
-                        <li>Dr.P.Vetrivelan and et.al, “A Neurl Netwrk based Autmatc crop
-monitoring Robot for Agriultre”, The IoT and the Next Revolions
-Autating the World, pp.203-212, 2019.</li>
-                        <li>Dr.S.Santhi and et.al, “SoS Emgency Ad-Hoc Wireles Net”,
-Computatonl Intellience & Sustainable Systems (CISS), EAI/Springer
-Innvtn. in Comm. & Comptng, pp.227-234, 2019.</li>
-                        <li>Ahmed Abatal and et.al., “A Semantic Smart Intercnneed Healthcre
-using Ontology & Could Computing”, IEEE Int. Conf, 2017.</li>
-                        <li>T.Kanagaraj and et.al, “Foot Pressure Measremnt by using ATMEGA
-164 Microcontrlr”, Advances in Natural & Applied Sciencs, vol 10,
-pp.224-228, 2016,</li>
-                        <li>Duraisamy Sathya and et.al., “Secured Remte Health Monitorig Sys”,
-IEEE Int conf, 2017.</li>
-                        <li>Bharat Bhusan Singh and et.al, “GSM Based Automatic Pill
-Dispenser”, Int. Jurnl of Engg Science & Comptng, 2017.</li>
-                        <li>A. Selvanayakam and et.al.. "Health Monitoring Sys. using IoT",
-Springer Science and Business Media LLC, 2020.</li>
-                        <li>P.Vetrivelan, and et.al “Design of Smart Surveillance Security Sys
-based on Wireles Sensor Network”, Int. Jornl of Resarch Studies in
-Science, Engg & Tech, vol 4, Issue 5, 2017, pp.23-26.</li>
-                        <li>N.Prakash and et.al, “Arduino based traffic congestion control with
-automatic signal clearance for emergency vehicles & stolen vehicle
-detection”, Proc. of IEEE Int. Conf on Comptng, Comm & Informatics,
-Coimbatore, 2020.</li>
-                        <li>K.Srihari and et.al. “Implementan of Alexa based Intellignt Voice
-Response Sys for Smart Campus”, Innotns in Electricl & Electroncs
-Engg, Lecture Notes in Electrical Engineering (LNEE) series, vol 626,
-Issue 1, 2020, pp.849-855.</li>
-                        <li>Prakash N., Udayakumar E., Kumareshan N., Gowrishankar R. (2021)
-GSM-Based Design and Implementation of Women Safety Device
-Using Internet of Things. In: Peter J., Fernandes S., Alavi A. (eds)
-Intelligence in Big Data Technologies- Beyond the Hype. Advances in
-Intelligent Systems and Computing, vol 1167. Springer, Singapore.</li>
-                        <li>Ankit Tejbahadur Yadav and et.al, “Smart Medical Box”, International
-Research Journal of Engineering and Technology, 2018.</li>
-                        <li>T.Kanagaraj and et.al, “Control of Home appliances by smart
-application using SEAP Protocol”, Intellignce in Big Data Technologes-Beyond the Hype, Advances in Intellignt Sys &
-Computng, vol 1119, Issue 1, 2020, pp.603-610.</li>
-                        <li>Yogeshwaran.K and et.al, (2020). “An Enhanced Face & Iris
-Recognition based New Generatin Security Sys.”, Computng, Comm
-& Cyber-Security, Lecture Notes in Networks & Sys, vol 121, issue 1,
-pp.845-855</li>
-                        <li>Tamilselvan and et.al, (2020) “A Smart Indtril Pollution Detectin &
-Monitoring using Internt of Things (IoT)”, Futuristic Trends in Net &
-Comm. Techges, Comm. in Computer & Informatin Sci, vol 1206,
-Issue 1, pp.233-242.</li>
-                        <li>Linkous, Lauren and et.al. (2019). Health Monitoring in Smart Homes
-Utilizing IoT.</li>
-                        <li>P.H.Tsai and et.al. “Smart Medication Dispenser: Design, Architecture
-and Implementation”, IEEE Int. Conf, 2016.</li>
-                        <li>Deepti Ameta and et.al, “Medication Reminder & Healthcare-An
-Android App.”, Int. Jurnl of Managing Public Sector Information &
-Comm Techges. 2015.</li>
-                        <li>Talal, M and et al. Smart Home-based IoT for Real-time & Secure
-Remote Health Monitoring of Triage & Priority Sys. using Body
-Sensors: Multi-driven Systematic Review. J Med Syst 43, 42 (2019).</li>
-                        <li>Kadhim, K.T and. et al. An Overview of Patient’s Health Status
-Monitoring System Based on Internet of Things (IoT). Wireless Pers
-Commun (2020).</li>
-                        <li>N. Prakash and et.al. Design and development of Android based Plant
-disease detection using Arduino. 7th International Conference on
-Smart Structures and Systems (ICSSS), India, 2020, pp. 1-6, (2020).</li>
-                        <li>H. N. Saha, and et.al., "Internet of Thing based healthcare monitorig
-sys" IEEE Annual Information Tech, Electronics & Mobile Comm
-Conf, Vancouver, 2017, pp. 531-535</li>
-                        <li>M.Ramesh and et.al.: An Innovative Approach for Face Recognition
-Using Raspberry Pi, Artificial Intelligence Evolution, Universal Wiser
-publisher, vol 1, issue 2, pp.103-108, (2020).</li>
-                        <li>S. Tamilselvan and et.al. Development of Artificial Intelligence based
-assessment writing Robot for disable people. 7th International
-Conference on Smart Structures and Systems (ICSSS), India, pp. 1-6,
-(2020).</li>
-                        <li>D. A. M. Budida and R. S. Mangrulkar, "Design and implementation of
-smart HealthCare system using IoT," 2017 International Conference on
-Innovations in Information, Embedded and Communication Systems
-(ICIIECS), Coimbatore, 2017, pp. 1-7.</li>
-                        <li>V. Vippalapalli and S. Ananthula, "Internet of things (IoT) based smart
-health care system," 2016 International Conference on Signal
-Processing, Communication, Power and Embedded System
-(SCOPES), Paralakhemundi, 2016, pp. 1229-1233</li>
-                        <li>Islam, M.M., Rahaman, A. & Islam, M.R. Development of Smart
-Healthcare Monitoring System in IoT Environment. SN COMPUT.
-SCI. 1, 185 (2020).</li>
-                        <li>L. Linkous, N. Zohrabi and S. Abdelwahed, "Health Monitoring in
-Smart Homes Utilizing Internet of Things," 2019 IEEE/ACM
-International Conference on Connected Health: Applications, Systems
-and Engineering Technologies (CHASE), Arlington, VA, USA, 2019,
-pp. 29-34,</li>
+                        <li>H. Zhang, H. Ouyang, S. Liu, X. Qi, X. Shen, R. Yang, and J. Jia, “Human pose estimation with spatial contextual information,” arXivpreprint arXiv:1901.01760,2019.</li>
+
+                        <li>F.Xiong, Y. Xiao, Z. Cao, K.Gong,Z.Fang,andJ.T.Zhou,“Good practices on building effective cnn baseline model for person re-identification,” in Tenth International Conference on Graphics and Image Processing (ICGIP 2018), vol. 11069. International Society for OpticsandPhotonics,2019,p.110690I.</li>
+
+                        <li>M. Hein, M. Andriushchenko, and J. Bitterwolf, “Why relunetworks yield high-confidence predictions far away from the training data and how to mitigate the problem,” in Proceedings of the IEEE Conference onComputerVisionandPatternRecognition,2019,pp.41–50.</li>
+
+                        <li>[Online].	Available:	https://www.cs.ubc.ca/	lsi- gal/Publications/SigalEncyclopediaCVdraft.pdf</li>
+
+                        <li>J. Carreira, P. Agrawal, K. Fragkiadaki, and J. Malik, “Human pose estimation with iterative error feedback,” in Proceedings of the IEEE conference on computer vision and pattern recognition, 2016, pp. 4733– 4742.</li>
+
+                        <li>T. Durand, N. Mehrasa, and G. Mori, “Learning a deep convnet for multi-label classification with partial labels,” in Proceedings of theIEEE ConferenceonComputerVisionandPatternRecognition,2019,pp.647– 657.</li>
+
+                        <li>L. Pishchulin, E. Insafutdinov, S. Tang, B. Andres, M. Andriluka, P. V. Gehler, and B. Schiele, “Deepcut: Joint subset partition and labeling for multi person pose estimation,” in Proceedings of the IEEE Conference onComputerVisionandPatternRecognition,2016,pp.4929–4937.</li>
+
+                        <li>S.-E. Wei, V. Ramakrishna, T. Kanade, and Y. Sheikh, “Convolutional pose machines,” in Proceedings of the IEEE Conference on Computer VisionandPatternRecognition,2016,pp.4724–4732.</li>
+
+                        <li>J. Tompson, R. Goroshin, A. Jain, Y. LeCun, and C. Bregler, “Efficient object localization using convolutional networks,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2015, pp.648–656.</li>
+
+                        <li>E. Insafutdinov, L. Pishchulin, B. Andres, M. Andriluka, and B. Schiele, “Deepercut: A deeper, stronger, and faster multi-person pose estimation model,” in European Conference on Computer Vision. Springer, 2016, pp.34–50.</li>
+
+                        <li>L. Hansen, M. Siebert, J. Diesel, and M. P. Heinrich, “Fusing informa- tion from multiple 2d depth cameras for 3d human pose estimation inthe operating room,” International journal of computer assisted radiology and surgery, pp. 1–9,2019.</li>
+
+                        <li>S. Liu, Y. Yin, and S. Ostadabbas, “In-bed pose estimation: Deep learningwithshallowdataset,”IEEEjournaloftranslationalengineering inhealthandmedicine,vol.7,pp.1–12,2019.</li>
+
+                        <li>P. Sermanet, D. Eigen, X. Zhang, M. Mathieu, R. Fergus, and Y. Le- Cun, “Overfeat: Integrated recognition, localization and detection using convolutional networks,” arXiv preprint arXiv:1312.6229,2013.</li>
+
+                        <li>A. Bearman and C. Dong, “Human pose estimation and activity classi- fication using convolutional neural networks,” CS231n Course Project Reports,2015.</li>
+
+                        <li>L. Pishchulin, M. Andriluka, P. Gehler, and B. Schiele, “Poseletcondi- tioned pictorial structures,” in Proceedings of the IEEE Conference on ComputerVisionandPatternRecognition,2013,pp.588–595.</li>
+
+                        <li>A. Toshevand C. Szegedy, “Deeppose: Human pose estimation via deep neural networks,” in Proceedings of the IEEE conference on computer visionandpatternrecognition,2014,pp.1653–1660.</li>
+
+                        <li>A. Nibali, Z. He, S. Morgan, and L. Prendergast, “3d human pose estimationwith2dmarginalheatmaps,”in2019IEEEWinterConference on Applications of Computer Vision (WACV). IEEE, 2019, pp. 1477– 1485.</li>
+
+                        <li>X. Zhou, M. Zhu, G. Pavlakos, S. Leonardos, K. G. Derpanis,and
+                        K. Daniilidis, “Monocap: Monocular human motion capture using a cnn coupled with a geometric prior,” IEEE transactions on pattern analysis and machine intelligence, vol. 41, no. 4, pp. 901–914, 2018.
+                        </li>
+
+                        <li>G. Rogez, P. Weinzaepfel, and C. Schmid, “Lcr-net++: Multi-person 2d and 3d pose detection in natural images,” IEEE transactions on pattern analysis and machine intelligence,2019.</li>
+
+                        <li>Agarwal, A., Triggs, B.: Recovering 3d human pose from monocular images. IEEE transactions on pattern analysis and machine intelligence 28(1) (2006) 44–58</li>
+
+                        <li>Ionescu, C., Li, F., Sminchisescu, C.: Latent structured models for human pose estimation. In: 2011 International Conference on Computer Vision, IEEE (2011) 2220–222</li>
+
+                        <li>Shotton, J., Sharp, T., Kipman, A., Fitzgibbon, A., Finocchio, M., Blake, A., Cook, M., Moore, R.: Real-time human pose recognition in parts from single depth images. Communications of the ACM 56(1) (2013) 116–124</li>
+
+                        <li>Li, S., Chan, A.B.: 3d human pose estimation from monocular images with deep convolutional neural network. In: Asian Conference on Computer Vision, Springer (2014) 332–347</li>
+
+                        <li>Li, S., Zhang, W., Chan, A.B.: Maximum-margin structured learning with deep networks for 3d human pose estimation. In: Proceedings of the IEEE International Conference on Computer Vision. (2015) 2848–2856</li>
+
+                        <li>Tekin, B., Katircioglu, I., Salzmann, M., Lepetit, V., Fua, P.: Structured prediction of 3d human pose with deep neural networks. arXiv preprint arXiv:1605.05180 (2016)</li>
+
+                        <li>Zhou, X., Zhu, M., Leonardos, S., Derpanis, K.G., Daniilidis, K.: Sparseness meets deepness: 3d human pose estimation from monocular video. In: The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). (June 2016)</li>
+
+                        <li>G. Pons-Moll, D. J. Fleet, and B. Rosenhahn. Posebits for monocular human pose estimation. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pages 2337–2344, 2014.</li>
+
+                        <li>C. Ionescu, J. Carreira, and C. Sminchisescu. Iterated second-order label sensitive pooling for 3d human pose estimation. InIEEEConferenceonComputerVisionandPattern Recognition (CVPR), pages 1661–1668, 2014.</li>
+
+                        <li>B. Tekin, A. Rozantsev, V. Lepetit, and P. Fua. Direct Prediction of 3D Body Poses from Motion Compensated Sequences. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.</li>
+
+                        <li>Y. Yu, F. Yonghao, Z. Yilin, and W. Mohan. Marker-less 3DHumanMotionCapturewithMonocularImageSequence andHeight-Maps. InEuropeanConferenceonComputerVision (ECCV), 2016.</li>
+
+                        <li>X. Zhou, X. Sun, W. Zhang, S. Liang, and Y. Wei. Deep kinematicposeregression. InECCVWorkshoponGeometry Meets Deep Learning, 2016.</li>
+
+                        <li>H. J. Lee and Z. Chen. Determination of 3D human body postures from a single view. Computer Vision, Graphics and Image Processing, 30:148–168, 1985.</li>
+
+                        <li>H. Jiang. 3d human pose reconstruction using millions of exemplars. In ICPR, pages 1674–1677, Aug 2010.</li>
+
+                        <li>A. Gupta, J. Martinez, J. J. Little, and R. J. Woodham. 3D Pose from Motion for Cross-view Action Recognition via Non-linear Circulant Temporal Encoding. In CVPR, 2014.</li>
+
+                        <li>I. Akhter and M. J. Black. Pose-conditioned joint angle limits for 3D human pose reconstruction. In CVPR, 2015.</li>
+
+                        <li>G. Pavlakos, X. Zhou, K. G. Derpanis, and K. Daniilidis. Coarse-to-ﬁne volumetric prediction for single-image 3D human pose. In CVPR, 2017.</li>
+
+                        <li>A. Newell, K. Yang, and J. Deng. Stacked hourglass networks for human pose estimation. In ECCV, 2016.</li>
+
+                        <li>F. Moreno-Noguer. 3d human pose estimation from a single image via distance matrix regression. In CVPR, 2017.</li>
+
+                        <li>F. Bogo, A. Kanazawa, C. Lassner, P. Gehler, J. Romero, and M. J. Black. Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image. In European Conference on Computer Vision, 2016.</li>
+
+                        <li>C. Ionescu, D. Papava, V. Olaru, and C. Sminchisescu. Human3.6M: Large Scale Datasets and Predictive Methods for 3D Human Sensing in Natural Environments. IEEE Transactions on Pattern Analysis and Machine Intelligence, 36(7):1325–1339, 2014.</li>
+
+                        <li>A. Agudo, J. M. M. Montiel, B. Calvo, and F. MorenoNoguer. Mode-Shape Interpretation: Re-Thinking Modal Space for Recovering Deformable Shapes. In Winter Conference on Applications of Computer Vision, 2016.</li>
+
+                        <li>A. Kloczkowski, R. L. Jernigan, Z. Wu, G. Song, L. Yang, A. Kolinski, and P. Pokarowski. Distance Matrix-based Approach to Protein Structure Prediction. Journal of Structural and Functional Genomics, 10(1):67–81, 2009.</li>
+
+                        <li>P. Biswas, T. Liang, K. Toh, T. Wang, and Y. Ye. Semideﬁnite Programming Approaches for Sensor Network Localization With Noisy Distance Measurements. IEEE Transactions on Automation Science and Engineering, 3:360–371, 2006.</li>
+
+                        <li>J. Porta, L. Ros, F. Thomas, and C. Torras. A Branch-andPrune Solver for Distance Constraints. IEEE Transactions on Robotics, 21:176–187, 2005.</li>
+
+                        <li>D. Smeets, J. Hermans, D. Vandermeulen, and P. Suetens. Isometric Deformation Invariant 3D Shape Recognition. Pattern Recognition, 45(7):2817–2831, 2012.</li>
+
+                        <li>I. Borg and P. Groenen. Modern Multidimensional Scaling: Theory and Applications. Springer, 2005.</li>
+
+                        <li>S. Zufﬁ and M. J. Black. The stitched puppet: A graphical model of 3D human shape and pose. In CVPR, 2015.</li>
+
+                        <li>W. Chen, H. Wang, Y. Li, H. Su, Z. Wang, C. Tu, D. Lischinski, D. Cohen-Or, and B. Chen. Synthesizing training images for boosting human 3D pose estimation. In 3DV, 2016.</li>
+
+                        <li>S. Huang and D. Ramanan. Expecting the unexpected: Training detectors for unusual pedestrians with adversarial imposters. In CVPR, 2017.</li>
+
+                        <li>H. Hattori, V. N. Boddeti, K. M. Kitani, and T. Kanade. Learning scene-speciﬁc pedestrian detectors without real data. In CVPR, 2015.</li>
+
+                        <li>M. Enzweiler and D. M. Gavrila. A mixed generativediscriminative framework for pedestrian classiﬁcation. In CVPR, 2008.</li>
+
+                        <li>A. Hornung, E. Dekkers, and L. Kobbelt. Character animation from 2D pictures and 3D motion data. ACM Trans. Graph., 26(1), 2007.</li>
+
+                        <li>L. Pishchulin, A. Jain, M. Andriluka, T. Thormählen, and B. Schiele. Articulated people detection and pose estimation: Reshaping the future. In CVPR, 2012.</li>
+
+                        <li>D. Park and D. Ramanan. Articulated pose estimation with tiny synthetic videos. In CVPR ChaLearn Looking at People Workshop, 2015.</li>
+
+                        <li>D. C. Luvizon, D. Picard, and H. Tabia, “2d/3d pose estimation and action recognition using multitask deep learning,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2018, pp.5137–5146.</li>
+
+                        <li>M. Andriluka, U. Iqbal, E. Insafutdinov, L. Pishchulin, A. Milan, J. Gall, and B. Schiele, “Posetrack: A benchmark for human pose estimationand tracking,” in Proceedings of the IEEE Conference on Computer Vision andPatternRecognition,2018,pp.5167–5176.</li>
+
+                        <li>[Online]. Available:http://human-pose.mpi-inf.mpg.de/</li>
+
+                        <li>J. Redmon, S. Divvala, R. Girshick, and A. Farhadi, “You only look once: Unified, real-time object detection,” in Proceedings of the IEEE conference on computer vision and pattern recognition, 2016, pp. 779– 788.</li>
+
+                        <li>A.Camero,J.Toutouh,andE.Alba,“Aspecializedevolutionarystrategy using mean absolute error random sampling to design recurrent neural networks,” arXiv preprint arXiv:1909.02425,2019.</li>
+
                     </ol>
                 </h5>
                 <h5>
-                  <b>Pages: 1-6</b>
+                  <b>Pages: 1-9</b>
                 </h5>
                 <h5>
                 <b>Cite As </b>
                 <br/>
-                <p>Nishanthi, P, Udayakumar, E, Vaishnavi, M, & Srihari, K. (2020). Design of smart Home monitoring healthcare system using Internet of things. Innovative computing and communication: an international journal, 2(1), 1–5.<br/> http://doi.org/10.5281/zenodo.4743804</p>
+                <p>Vividha, Anjali Khandelwal, Anubhav Singh, Preeti Nagrath, Narina Thakur (2020). ConvPose: Application of CNN for Estimating Human Poses. Innovative computing and communication: an international journal.<br/> http://doi.org/10.5281/zenodo.4743804</p>
                 </h5>
               </CardBody>
             </Card>
