@@ -517,7 +517,7 @@ export default function AdvisoryBoard() {
             </Card>
           </GridItem>
 
-          
+          </GridContainer>
       </ExpansionPanelDetails>
     </div>
   );
