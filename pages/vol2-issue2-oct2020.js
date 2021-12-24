@@ -231,99 +231,99 @@ export default function AdvisoryBoard() {
                 <h5>
                     <b>Refrences: </b>
                     <ol>
-                        <li>[1]	Ruuskanen O, Lahti E, Jennings LC, Murdoch DR (April 2011). "Viral pneumonia". Lancet. 377 (9773): 1264–75.</li>
+                        <li>Ruuskanen O, Lahti E, Jennings LC, Murdoch DR (April 2011). "Viral pneumonia". Lancet. 377 (9773): 1264–75.</li>
 
-                        <li>[2]	Lodha R, Kabra SK, Pandey RM (June 2013). "Antibiotics for community-acquired pneumonia in children". The Cochrane Database of Systematic Reviews.</li>
+                        <li>Lodha R, Kabra SK, Pandey RM (June 2013). "Antibiotics for community-acquired pneumonia in children". The Cochrane Database of Systematic Reviews.</li>
 
-                        <li>[3]	George, Ronald B. (2005). Chest medicine: essentials of pulmonary and critical care medicine (5th ed.). Philadelphia: Lippincott Williams & Wilkins. p. 353.</li>
+                        <li>George, Ronald B. (2005). Chest medicine: essentials of pulmonary and critical care medicine (5th ed.). Philadelphia: Lippincott Williams & Wilkins. p. 353.</li>
 
-                        <li>[4]	McLuckie, A., ed. (2009). Respiratory disease and its management. New York: Springer. p. 51.</li>
+                        <li>McLuckie, A., ed. (2009). Respiratory disease and its management. New York: Springer. p. 51.</li>
 
-                        <li>[5]	Mandell LA, Wunderink RG, Anzueto A, Bartlett JG, Campbell GD, Dean NC, Dowell SF, File TM, Musher DM, Niederman MS, Torres A, Whitney CG (March 2007). "Infectious Diseases Society of America/American Thoracic Society consensus guidelines on the management of community-acquired pneumonia in adults". Clinical Infectious Diseases. 44 Suppl 2 (Suppl 2): S27–72.</li>
+                        <li>Mandell LA, Wunderink RG, Anzueto A, Bartlett JG, Campbell GD, Dean NC, Dowell SF, File TM, Musher DM, Niederman MS, Torres A, Whitney CG (March 2007). "Infectious Diseases Society of America/American Thoracic Society consensus guidelines on the management of community-acquired pneumonia in adults". Clinical Infectious Diseases. 44 Suppl 2 (Suppl 2): S27–72.</li>
 
-                        <li>[6]	Lim WS, Baudouin SV, George RC, Hill AT, Jamieson C, Le Jeune I, Macfarlane JT, Read RC, Roberts HJ, Levy ML, Wani M, Woodhead MA (October 2009). "BTS guidelines for the management of community acquired pneumonia in adults: update 2009". Thorax. 64 Suppl 3 (Suppl 3): iii–155.</li>
+                        <li>Lim WS, Baudouin SV, George RC, Hill AT, Jamieson C, Le Jeune I, Macfarlane JT, Read RC, Roberts HJ, Levy ML, Wani M, Woodhead MA (October 2009). "BTS guidelines for the management of community acquired pneumonia in adults: update 2009". Thorax. 64 Suppl 3 (Suppl 3): iii–155.</li>
 
-                        <li>[7]	Elena, Prina; Otavio, T Ranzani; Anthoni, Torres (12 August 2015). "Community-acquired pneumonia". The Lancet. 386 (9998): 1097–1108.</li>
+                        <li>Elena, Prina; Otavio, T Ranzani; Anthoni, Torres (12 August 2015). "Community-acquired pneumonia". The Lancet. 386 (9998): 1097–1108.</li>
 
-                        <li>[8]	Rudan I, Boschi-Pinto C, Biloglav Z, Mulholland K, Campbell H (May 2008). "Epidemiology and etiology of childhood pneumonia". Bulletin of the World Health Organization. 86 (5): 408–16.</li>
+                        <li>Rudan I, Boschi-Pinto C, Biloglav Z, Mulholland K, Campbell H (May 2008). "Epidemiology and etiology of childhood pneumonia". Bulletin of the World Health Organization. 86 (5): 408–16.</li>
 
-                        <li>[9]	WHO (June 1999). "Pneumococcal vaccines. WHO position paper".ReleveEpidemiologiqueHebdomadaire. 74 (23): 177–83.</li>
+                        <li>WHO (June 1999). "Pneumococcal vaccines. WHO position paper".ReleveEpidemiologiqueHebdomadaire. 74 (23): 177–83.</li>
 
-                        <li>[10]	"Global tuberculosis report". World Health Organization (WHO). Retrieved 9 November 2017.</li>
+                        <li>"Global tuberculosis report". World Health Organization (WHO). Retrieved 9 November 2017.</li>
 
-                        <li>[11]	Nicas M, Nazaroff WW, Hubbard A (March 2005). "Toward understanding the risk of secondary airborne infection: emission of respirable pathogens". Journal of Occupational and Environmental Hygiene.2 (3): 143–54.</li>
+                        <li>Nicas M, Nazaroff WW, Hubbard A (March 2005). "Toward understanding the risk of secondary airborne infection: emission of respirable pathogens". Journal of Occupational and Environmental Hygiene.2 (3): 143–54.</li>
 
-                        <li>[12]	Dolin, [edited by] Gerald L. Mandell, John E. Bennett, Raphael (2010). Mandell, Douglas, and Bennett's principles and practice of infectious diseases (7th ed.). Philadelphia, PA: Churchill Livingstone/Elsevier. p. Chapter 250</li>
+                        <li>Dolin, [edited by] Gerald L. Mandell, John E. Bennett, Raphael (2010). Mandell, Douglas, and Bennett's principles and practice of infectious diseases (7th ed.). Philadelphia, PA: Churchill Livingstone/Elsevier. p. Chapter 250</li>
 
-                        <li>[13]	TB Statistics for India. (2012). TB Facts. Retrieved April 3, 2013, from http://www.tbfacts.org/tb-statistics-india.html</li>
+                        <li>TB Statistics for India. (2012). TB Facts. Retrieved April 3, 2013, from http://www.tbfacts.org/tb-statistics-india.html</li>
 
-                        <li>[14]	"India records 2.15m new TB patients in 2018". The Nation. 2019-03-26. Retrieved 2019-03-27.</li>
+                        <li>"India records 2.15m new TB patients in 2018". The Nation. 2019-03-26. Retrieved 2019-03-27.</li>
 
-                        <li>[15]	Sachdeva, Kuldeep Singh et al. “New vision for Revised National Tuberculosis Control Programme (RNTCP): Universal access - "reaching the un-reached".” The Indian journal of medical research vol. 135,5 (2012): 690-4.</li>
+                        <li>Sachdeva, Kuldeep Singh et al. “New vision for Revised National Tuberculosis Control Programme (RNTCP): Universal access - "reaching the un-reached".” The Indian journal of medical research vol. 135,5 (2012): 690-4.</li>
 
-                        <li>[16]	Rajpurkar P, Irvin J, Zhu K, Yang B, Mehta H, Duan T, Ding D, Bagul A, Langlotz C, Shpanskaya K, Lungren MP (2017-11-14). "CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning"</li>
+                        <li>Rajpurkar P, Irvin J, Zhu K, Yang B, Mehta H, Duan T, Ding D, Bagul A, Langlotz C, Shpanskaya K, Lungren MP (2017-11-14). "CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning"</li>
 
-                        <li>[17]	Van Ginneken, B., Katsuragawa, S., terHaarRomeny, B.M., Doi, K., Viergever, M.A.: Automatic detection of abnormalities in chest radiographs using local texture analysis. IEEE Trans. Med. Imaging 21(2), 139–149 (2002).</li>
+                        <li>Van Ginneken, B., Katsuragawa, S., terHaarRomeny, B.M., Doi, K., Viergever, M.A.: Automatic detection of abnormalities in chest radiographs using local texture analysis. IEEE Trans. Med. Imaging 21(2), 139–149 (2002).</li>
 
-                        <li>[18]	Wang, X.; Peng, Y.; Lu, L.; Lu, Z.; Bagheri, M.; summers, R.M. Chestx-ray8: Hospital scale chest x-ray database and benchmarks on weakly-supervised classiﬁcation and localization of common thorax diseases. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Honolulu, HI, USA, 21–26 July 2017; IEEE: Piscataway, NJ, USA; pp. 2097–2106.</li>
+                        <li>Wang, X.; Peng, Y.; Lu, L.; Lu, Z.; Bagheri, M.; summers, R.M. Chestx-ray8: Hospital scale chest x-ray database and benchmarks on weakly-supervised classiﬁcation and localization of common thorax diseases. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Honolulu, HI, USA, 21–26 July 2017; IEEE: Piscataway, NJ, USA; pp. 2097–2106.</li>
 
-                        <li>[19]	Ronneberger, O.; Fischer, P.; Brox, T. U-net: Convolutional networks for biomedical image segmentation. In Proceedings of the 18th International Conference on Medical Image Computing and Computer-Assisted Intervention, Munich, Germany, 5–9 October 2015; Springer International Publishing: New York, NY, USA; pp. 234–241.</li>
+                        <li>Ronneberger, O.; Fischer, P.; Brox, T. U-net: Convolutional networks for biomedical image segmentation. In Proceedings of the 18th International Conference on Medical Image Computing and Computer-Assisted Intervention, Munich, Germany, 5–9 October 2015; Springer International Publishing: New York, NY, USA; pp. 234–241.</li>
 
-                        <li>[20]	Roth, H.R.; Lu, L.; Seﬀ, A.; Cherry, K.M.; Hoﬀman, J.; Wang, S.; Liu, J.; Turkbey, E.; Summers, R.M. A new 2.5 d representation for lymph node detection using random sets of deep convolutional neural network observations. In Proceedings of the 17th International Conference on Medical Image Computing and Computer-Assisted Intervention, Boston, MA, USA, 14–18 September 2014; Springer International Publishing: New York, NY, USA; pp. 520–527.</li>
+                        <li>Roth, H.R.; Lu, L.; Seﬀ, A.; Cherry, K.M.; Hoﬀman, J.; Wang, S.; Liu, J.; Turkbey, E.; Summers, R.M. A new 2.5 d representation for lymph node detection using random sets of deep convolutional neural network observations. In Proceedings of the 17th International Conference on Medical Image Computing and Computer-Assisted Intervention, Boston, MA, USA, 14–18 September 2014; Springer International Publishing: New York, NY, USA; pp. 520–527.</li>
 
-                        <li>[21]	Shin, H.-C.; Roth, H.R.; Gao, M.; Lu, L.; Xu, Z.; Nogues, I.; Yao, J.; Mollura, D.; Summers, R.M. Deep convolutional neural networks for computer-aided detection: Cnn architectures, dataset characteristics and transfer learning. IEEE Trans. Med. Imaging 2016, 35, 1285–1298.</li>
+                        <li>Shin, H.-C.; Roth, H.R.; Gao, M.; Lu, L.; Xu, Z.; Nogues, I.; Yao, J.; Mollura, D.; Summers, R.M. Deep convolutional neural networks for computer-aided detection: Cnn architectures, dataset characteristics and transfer learning. IEEE Trans. Med. Imaging 2016, 35, 1285–1298.</li>
 
-                        <li[22]	Sivaramakrishnan, R., Antani, S., Xue, Z., Candemir, S., Jaeger, S., and Thoma, G. (2017). Visualizing abnormalities in chest radiographs through salient network activations in deep learning. In Life Sciences Conference (LSC), 2017 IEEE, pages 71–74. IEEE.</li>
+                        <li>Sivaramakrishnan, R., Antani, S., Xue, Z., Candemir, S., Jaeger, S., and Thoma, G. (2017). Visualizing abnormalities in chest radiographs through salient network activations in deep learning. In Life Sciences Conference (LSC), 2017 IEEE, pages 71–74. IEEE.</li>
 
-                        <li>[23]	Li, X.; Shen, L.; Xie, X.; Huang, S.; Xie, Z.; Hong, X.; Yu, J. Multi-resolution convolutional     networks for chest X-ray radiograph based lung nodule detection. Artif. Intell. Med. 2019, 101744.  </li>
+                        <li>Li, X.; Shen, L.; Xie, X.; Huang, S.; Xie, Z.; Hong, X.; Yu, J. Multi-resolution convolutional     networks for chest X-ray radiograph based lung nodule detection. Artif. Intell. Med. 2019, 101744.  </li>
 
-                        <li>[24]	Liang, G.; Zheng, L. A transfer learning method with deep residual network for pediatric pneumonia diagnosis. Comput. Methods Programs Biomed. 2019, 104964.</li>
+                        <li>Liang, G.; Zheng, L. A transfer learning method with deep residual network for pediatric pneumonia diagnosis. Comput. Methods Programs Biomed. 2019, 104964.</li>
 
-                        <li>[25]	Nam, J.G.; Park, S.; Hwang, E.J.; Lee, J.H.; Jin, K.; Lim, K.Y.; Park, C.M. Development and validation of deep learning-based automatic detection algorithm for malignant pulmonary nodules on chest radiographs. Radiology 2019, 290, 218–228.</li>
+                        <li>Nam, J.G.; Park, S.; Hwang, E.J.; Lee, J.H.; Jin, K.; Lim, K.Y.; Park, C.M. Development and validation of deep learning-based automatic detection algorithm for malignant pulmonary nodules on chest radiographs. Radiology 2019, 290, 218–228.</li>
 
-                        <li>[26]	. Nasrullah, N.; Sang, J.; Alam, M.S.; Mateen, M.; Cai, B.; Hu, H. Automated lung nodule detection and classiﬁcation using deep learning combined with multiple strategies. Sensors 2019, 19, 3722.</li>
+                        <li>Nasrullah, N.; Sang, J.; Alam, M.S.; Mateen, M.; Cai, B.; Hu, H. Automated lung nodule detection and classiﬁcation using deep learning combined with multiple strategies. Sensors 2019, 19, 3722.</li>
 
-                        <li>[27]	Pasa, F.; Golkov, V.; Pfeiﬀer, F.; Cremers, D.; Pfeiﬀer, D. Eﬃcient deep network architectures for fast chest X-ray tuberculosis screening and visualization. Sci. Rep. 2019, 9, 6268.</li>
+                        <li>Pasa, F.; Golkov, V.; Pfeiﬀer, F.; Cremers, D.; Pfeiﬀer, D. Eﬃcient deep network architectures for fast chest X-ray tuberculosis screening and visualization. Sci. Rep. 2019, 9, 6268.</li>
 
-                        <li>[28]	Souza, J.C.; Bandeira Diniz, J.O.; Ferreira, J.L.; França da Silva, G.L.; Corrêa Silva, A.; de Paiva,      A.C. An automatic method for lung segmentation and reconstruction in chest X-ray using deep neural   networks. Comput. Methods Programs Biomed. 2019, 177, 285–296.</li>
+                        <li>Souza, J.C.; Bandeira Diniz, J.O.; Ferreira, J.L.; França da Silva, G.L.; Corrêa Silva, A.; de Paiva,      A.C. An automatic method for lung segmentation and reconstruction in chest X-ray using deep neural   networks. Comput. Methods Programs Biomed. 2019, 177, 285–296.</li>
 
-                        <li>[29]	Taylor, A.G.; Mielke, C.; Mongan, J. Automated detection of moderate and large pneumothorax on frontal chest X-rays using deep convolutional neural networks: A retrospective study. PLoSM ed. 2018, 15,e1002697.</li>
+                        <li>Taylor, A.G.; Mielke, C.; Mongan, J. Automated detection of moderate and large pneumothorax on frontal chest X-rays using deep convolutional neural networks: A retrospective study. PLoSM ed. 2018, 15,e1002697.</li>
 
-                        <li>[30]	Daniel Kermany, Kang Zhang, Michael Goldbaum Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification</li>
+                        <li>Daniel Kermany, Kang Zhang, Michael Goldbaum Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification</li>
 
-                        <li>[31]	Kermany, D., Zhang, K., and Goldbaum, M. (2018). Labeled optical coherence tomography (oct) and chest x-ray images for classiﬁcation. Structural Equation Modeling: A Multidisciplinary Journal.</li>
+                        <li>Kermany, D., Zhang, K., and Goldbaum, M. (2018). Labeled optical coherence tomography (oct) and chest x-ray images for classiﬁcation. Structural Equation Modeling: A Multidisciplinary Journal.</li>
 
-                        <li>[32]	Sharma S, Maycher B, Eschun G (May 2007). "Radiological imaging in pneumonia: recent innovations". Current Opinion in Pulmonary Medicine. 13 (3): 159–69.</li>
+                        <li>Sharma S, Maycher B, Eschun G (May 2007). "Radiological imaging in pneumonia: recent innovations". Current Opinion in Pulmonary Medicine. 13 (3): 159–69.</li>
 
-                        <li>[33]	Johnson AEW, Pollard TJ, Berkowitz SJ, Greenbaum NR, Lungren MP, Deng CY, Mark RG, Horng S. MIMIC-CXR, a de-identified publicly available database of chest radiographs with free-text reports. Sci Data. 2019 Dec 12;6 (1):317.</li>
+                        <li>Johnson AEW, Pollard TJ, Berkowitz SJ, Greenbaum NR, Lungren MP, Deng CY, Mark RG, Horng S. MIMIC-CXR, a de-identified publicly available database of chest radiographs with free-text reports. Sci Data. 2019 Dec 12;6 (1):317.</li>
 
-                        <li>[34]	Ustinova, E., Ganin, Y., and Lempitsky, V. (2017). Multiregion bilinear convolutional neural networks for person re-identiﬁcation. In Advanced Video and Signal Based Surveillance (AVSS), 2017 14th IEEE International Conference on, pages 1–6. IEEE.</li>
+                        <li>Ustinova, E., Ganin, Y., and Lempitsky, V. (2017). Multiregion bilinear convolutional neural networks for person re-identiﬁcation. In Advanced Video and Signal Based Surveillance (AVSS), 2017 14th IEEE International Conference on, pages 1–6. IEEE.</li>
 
-                        <li>[35]	Albawi, S.; Mohammed, T.A.; Al-Zawi, S. Understanding of a convolutional neural network. In Proceedings of the 2017 International Conference on Engineering and Technology (ICET), Antalya, Turkey, 21–23 August 2017; pp. 1–6.</li>
+                        <li>Albawi, S.; Mohammed, T.A.; Al-Zawi, S. Understanding of a convolutional neural network. In Proceedings of the 2017 International Conference on Engineering and Technology (ICET), Antalya, Turkey, 21–23 August 2017; pp. 1–6.</li>
 
-                        <li>[36]	Gomes, J.; Velho, L. Image Processing for Computer Graphics and Vision. Springer-Verlag, 2008.</li>
+                        <li>Gomes, J.; Velho, L. Image Processing for Computer Graphics and Vision. Springer-Verlag, 2008.</li>
 
-                        <li>[37]	Gonzalez, R. C.; Woods, R. E. Digital Image Processing. Third Edition. Prentice Hall, 2007.</li>
+                        <li>Gonzalez, R. C.; Woods, R. E. Digital Image Processing. Third Edition. Prentice Hall, 2007.</li>
 
-                        <li>[38]	Yu, S., Jia, S., and Xu, C. (2017). Convolutional neural networks for hyperspectral image classiﬁcation. Neurocomputing, 219:88–98.</li>
+                        <li>Yu, S., Jia, S., and Xu, C. (2017). Convolutional neural networks for hyperspectral image classiﬁcation. Neurocomputing, 219:88–98.</li>
 
-                        <li>[39]	Bailer, C.; Habtegebrial, T.; Varanasi, K.; Stricker, D. Fast Feature Extraction with CNNs with Pooling Layers. arXiv 2018</li>
+                        <li>Bailer, C.; Habtegebrial, T.; Varanasi, K.; Stricker, D. Fast Feature Extraction with CNNs with Pooling Layers. arXiv 2018</li>
 
-                        <li>[40]	Scherer, Dominik; Müller, Andreas C.; Behnke, Sven (2010). "Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition” Artificial Neural Networks (ICANN), 20th International Conference on. Thessaloniki, Greece: Springer. pp. 92–101</li>
+                        <li>Scherer, Dominik; Müller, Andreas C.; Behnke, Sven (2010). "Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition” Artificial Neural Networks (ICANN), 20th International Conference on. Thessaloniki, Greece: Springer. pp. 92–101</li>
 
-                        <li>[41]	Powers, David M W (2011). "Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness & Correlation" (Journal of Machine Learning Technologies. 2 (1): 37–63.</li>
+                        <li>Powers, David M W (2011). "Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness & Correlation" (Journal of Machine Learning Technologies. 2 (1): 37–63.</li>
 
-                        <li>[42]	Junge, M. R. J. and Dettori, J. R. (2018). Roc solid: Receiver operator characteristic (roc) curves as a foundation for better diagnostic tests. Global Spine Journal, 8(4):424–429.</li>
+                        <li>Junge, M. R. J. and Dettori, J. R. (2018). Roc solid: Receiver operator characteristic (roc) curves as a foundation for better diagnostic tests. Global Spine Journal, 8(4):424–429.</li>
 
-                        <li>[43]	Hanley, James A.; McNeil, Barbara J. (1983-09-01). "A method of comparing the areas under receiver operating characteristic curves derived from the same cases". Radiology. 148 (3): 839–843.</li>
+                        <li>Hanley, James A.; McNeil, Barbara J. (1983-09-01). "A method of comparing the areas under receiver operating characteristic curves derived from the same cases". Radiology. 148 (3): 839–843.</li>
 
-                        <li>[44]	Sasaki, Y. (2007). "The truth of the F-measure".</li>
+                        <li>Sasaki, Y. (2007). "The truth of the F-measure".</li>
 
-                        <li>[45]	ThiKieuKhanh Ho, JeonghwanGwak, Om Prakash,Jong-In Song, and Chang Min Park "Utilizing Pretrained Deep Learning Models for Automated Pulmonary Tuberculosis Detection Using Chest Radiography”. Springer Link (2019).</li>
+                        <li>ThiKieuKhanh Ho, JeonghwanGwak, Om Prakash,Jong-In Song, and Chang Min Park "Utilizing Pretrained Deep Learning Models for Automated Pulmonary Tuberculosis Detection Using Chest Radiography”. Springer Link (2019).</li>
 
-                        <li>[46]	He, Kaiming; Zhang, Xiangyu; Ren, Shaoqing; Sun, Jian (He, Kaiming; Zhang, Xiangyu; Ren, Shaoqing; Sun, Jian (2015-12-10). "Deep Residual Learning for Image Recognition".</li>
+                        <li>He, Kaiming; Zhang, Xiangyu; Ren, Shaoqing; Sun, Jian (He, Kaiming; Zhang, Xiangyu; Ren, Shaoqing; Sun, Jian (2015-12-10). "Deep Residual Learning for Image Recognition".</li>
 
-                        <li>[47]	Szegedy, Christian, Sergey Ioffe, Vincent Vanhoucke, and Alexander A. Alemi. "Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning." In AAAI, vol. 4, p. 12. 2017.</li>
+                        <li>Szegedy, Christian, Sergey Ioffe, Vincent Vanhoucke, and Alexander A. Alemi. "Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning." In AAAI, vol. 4, p. 12. 2017.</li>
 
                     </ol>
                 </h5>
