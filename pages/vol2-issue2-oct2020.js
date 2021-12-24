@@ -443,65 +443,65 @@ export default function AdvisoryBoard() {
                 <h5>
                     <b>Refrences: </b>
                     <ol>
-                        <li>[1]	Ge Hangli, Takeo Hamada, Takahiro Sumitomo, and Noboru Koshizuka, (Member, IEEE), “Intelevator: An Intelligent Elevator System Proactive in Traffic Control for Time-Efficiency Improvement”, Digital Object Identifier 10.1109/ACCESS.2020.2975020.</li>
+                        <li>Ge Hangli, Takeo Hamada, Takahiro Sumitomo, and Noboru Koshizuka, (Member, IEEE), “Intelevator: An Intelligent Elevator System Proactive in Traffic Control for Time-Efficiency Improvement”, Digital Object Identifier 10.1109/ACCESS.2020.2975020.</li>
 
-                        <li>[2]	Chia Tai (Angus) Lai, Paul R. Jackson & Wei Jiang, “Shifting paradigm to service-dominant logic via Internet-of-Things with applications in the elevators industry”, Journal of Management Analytics, 4:1, 35-54, DOI: 10.1080/23270012.2016.1259967.</li>
+                        <li>Chia Tai (Angus) Lai, Paul R. Jackson & Wei Jiang, “Shifting paradigm to service-dominant logic via Internet-of-Things with applications in the elevators industry”, Journal of Management Analytics, 4:1, 35-54, DOI: 10.1080/23270012.2016.1259967.</li>
 
-                        <li>[3]	Ali ÖZCAN, Uğur Orhan KARAKÖPRÜ2, Erhan YAP,  “Choosing Intelligent Elevator Control System by Using Analytic Hierarchy Process in High-Rise Buildings”.</li>
+                        <li>Ali ÖZCAN, Uğur Orhan KARAKÖPRÜ2, Erhan YAP,  “Choosing Intelligent Elevator Control System by Using Analytic Hierarchy Process in High-Rise Buildings”.</li>
 
-                        <li>[4]	Vasilios Nurislam Tursynbek, “Intelligent Elevators in a Smart building”, Future Technologies Conference (FTC) 2017 29-30 November, Vancouver, Canada.</li>
+                        <li>Vasilios Nurislam Tursynbek, “Intelligent Elevators in a Smart building”, Future Technologies Conference (FTC) 2017 29-30 November, Vancouver, Canada.</li>
 
-                        <li>[5]	Yerzhigit Bapin, Kanat Alimanov, and Vasilios Zarikas, “Camera-Driven Probabilistic Algorithm for Multi-Elevator Systems”, Energies | An Open Access Journal from MDPI</li>
+                        <li>Yerzhigit Bapin, Kanat Alimanov, and Vasilios Zarikas, “Camera-Driven Probabilistic Algorithm for Multi-Elevator Systems”, Energies | An Open Access Journal from MDPI</li>
 
-                        <li>[6]	Chang-Su Ryu, “IoT-based Intelligent for Fire Emergency Response Systems”, International Journal of Smart Home Vol. 9, No. 3 (2015).</li>
+                        <li>Chang-Su Ryu, “IoT-based Intelligent for Fire Emergency Response Systems”, International Journal of Smart Home Vol. 9, No. 3 (2015).</li>
 
-                        <li>[7]	Dan Shi and Bixi Xu 2018 IOP Conf. Ser.: Mater. Sci. Eng. 366 012076, “Intelligent elevator control and safety monitoring system”, IOP Conference Series: Materials Science and Engineering</li>
+                        <li>Dan Shi and Bixi Xu 2018 IOP Conf. Ser.: Mater. Sci. Eng. 366 012076, “Intelligent elevator control and safety monitoring system”, IOP Conference Series: Materials Science and Engineering</li>
 
-                        <li>[8]	J.Fernandez, P.Cortes, Member, IEEE, J.Munuzuri, and J.Guadix, “Dynamic Fuzzy Logic Elevator Group Control System With Relative Waiting Time Consideration”</li>
+                        <li>J.Fernandez, P.Cortes, Member, IEEE, J.Munuzuri, and J.Guadix, “Dynamic Fuzzy Logic Elevator Group Control System With Relative Waiting Time Consideration”</li>
 
-                        <li>[9]	Xuexia Zhang and Ying Shang 2020 J. Phys.: Conf. Ser. 1646 012116, ”Design and Research of Elevator Group Control System Based on PLC”, Journal of Physics: Conference Series</li>
+                        <li>Xuexia Zhang and Ying Shang 2020 J. Phys.: Conf. Ser. 1646 012116, ”Design and Research of Elevator Group Control System Based on PLC”, Journal of Physics: Conference Series</li>
 
-                        <li>[10]	Uljana Reinsalu, “Floor Selection Proposal for Automated Travel with Smart Elevator”, DOI: 10.1007/978-3-030-57672-1_4.</li>
+                        <li>Uljana Reinsalu, “Floor Selection Proposal for Automated Travel with Smart Elevator”, DOI: 10.1007/978-3-030-57672-1_4.</li>
 
-                        <li>[11]	Tarmo ROBAL, Uljana REINSALU, Mairo LEIER, Noboru Koshizuka, “Towards Personalized Elevator Travel with Smart Elevator System”, Baltic J. Modern Computing, Vol. 8 (2020), No. 4, pp.675–697</li>
+                        <li>Tarmo ROBAL, Uljana REINSALU, Mairo LEIER, Noboru Koshizuka, “Towards Personalized Elevator Travel with Smart Elevator System”, Baltic J. Modern Computing, Vol. 8 (2020), No. 4, pp.675–697</li>
 
-                        <li>[12]	Hamza Ijaz Abbasi, Abdul Jabbar Siddiqui,” Implementation of Smart Elevator System based on Wireless Multi-hop AdHoc Sensor Networks”, 978-1-4673-0498-6/11/$26.00 2011 IEEE</li>
+                        <li>Hamza Ijaz Abbasi, Abdul Jabbar Siddiqui,” Implementation of Smart Elevator System based on Wireless Multi-hop AdHoc Sensor Networks”, 978-1-4673-0498-6/11/$26.00 2011 IEEE</li>
 
-                        <li>C[13]	Robert H. Crites and Andrew G. Barto, “Improving Elevator Performance Using Reinforcement Learning”.</li>
+                        <li>Robert H. Crites and Andrew G. Barto, “Improving Elevator Performance Using Reinforcement Learning”.</li>
 
-                        <li[14]	Lee, Jiung, “Optimization for Urban Mobility Systems”, UC Berkeley Electronic Theses and Dissertations https://escholarship.org/uc/item/0zj695rp.</li>
+                        <li>Lee, Jiung, “Optimization for Urban Mobility Systems”, UC Berkeley Electronic Theses and Dissertations https://escholarship.org/uc/item/0zj695rp.</li>
 
-                        <li>[15]	Ms. Disha Chandankhede, Ms. Shraddha Lokhande, Ms. Jayashri Belkhode, Ms.Sonu Dhabarde Ms. Rajshree Patil, “SMART ELEVATOR SYSTEM”, International Journal of Research In Science & Engineering Volume: 3 Issue:2 March-April 2017</li>
+                        <li>Ms. Disha Chandankhede, Ms. Shraddha Lokhande, Ms. Jayashri Belkhode, Ms.Sonu Dhabarde Ms. Rajshree Patil, “SMART ELEVATOR SYSTEM”, International Journal of Research In Science & Engineering Volume: 3 Issue:2 March-April 2017</li>
 
-                        <li>[16]	Janne Sorsa, Henri Hakonen and Marja-Liisa Siikonen, “Elevator Selection with Destination Control System”,   PEKING 2005, the International Congress on Vertical Transportation Technologies and first published in IAEE book "Elevator Technology 15", edited by A. Lustig. It is a reprint with permission from The International Association of Elevator Engineers  [website www.elevcon.com]</li>
+                        <li>Janne Sorsa, Henri Hakonen and Marja-Liisa Siikonen, “Elevator Selection with Destination Control System”,   PEKING 2005, the International Congress on Vertical Transportation Technologies and first published in IAEE book "Elevator Technology 15", edited by A. Lustig. It is a reprint with permission from The International Association of Elevator Engineers  [website www.elevcon.com]</li>
 
-                        <li>[17]	Jiwen Chen1,2,* – Xin Li1,2 – Hongjuan Yang3 – Chen Wang1,2, “Innovative Design of a Vertical and Transverse Elevator in Double Shafts, Based on TRIZ Theory”, Strojniški Vestnik - Journal of Mechanical Engineering 65(2019)5, 297-310</li>
+                        <li>Jiwen Chen1,2,* – Xin Li1,2 – Hongjuan Yang3 – Chen Wang1,2, “Innovative Design of a Vertical and Transverse Elevator in Double Shafts, Based on TRIZ Theory”, Strojniški Vestnik - Journal of Mechanical Engineering 65(2019)5, 297-310</li>
 
-                        <li>[18]	C Ciflikli and E O Tartan, “Arrival Probability-Based Parking Algorithm for Elevator Group Control Systems”, To cite this article: C Ciflikli and E O Tartan 2019 J. Phys.: Conf. Ser. 1425 012130</li>
+                        <li>C Ciflikli and E O Tartan, “Arrival Probability-Based Parking Algorithm for Elevator Group Control Systems”, To cite this article: C Ciflikli and E O Tartan 2019 J. Phys.: Conf. Ser. 1425 012130</li>
 
-                        <li>[19]	Cebrail Ciflikli & Emre Öner Tartan (2019): A model for the visualization and analysis of elevator traffic, Transportation Planning and Technology, DOI: 10.1080/03081060.2019.1675326</li>
+                        <li>Cebrail Ciflikli & Emre Öner Tartan (2019): A model for the visualization and analysis of elevator traffic, Transportation Planning and Technology, DOI: 10.1080/03081060.2019.1675326</li>
 
-                        <li>[20]	Ge Hangli, Takeo Hamada, Takahiro Sumitomo, Noboru Koshizuka, “PrecaElevator: Towards Zero-Waiting Time on Calling Elevator By Utilizing Context-Aware Platform in Smart Building”, 2018 IEEE 7th Global Conference on Consumer Electronics (GCCE 2018)</li>
+                        <li>Ge Hangli, Takeo Hamada, Takahiro Sumitomo, Noboru Koshizuka, “PrecaElevator: Towards Zero-Waiting Time on Calling Elevator By Utilizing Context-Aware Platform in Smart Building”, 2018 IEEE 7th Global Conference on Consumer Electronics (GCCE 2018)</li>
 
-                        <li>[21]	Sungyong Ahn, Soyoon Lee and Hyokyung Bahn, “A smart elevator scheduler that considers dynamic changes of energy cost and user traffic”, Integrated Computer-Aided Engineering 24 (2017) 187–202 DOI 10.3233/ICA-170539 IOS Press</li>
+                        <li>Sungyong Ahn, Soyoon Lee and Hyokyung Bahn, “A smart elevator scheduler that considers dynamic changes of energy cost and user traffic”, Integrated Computer-Aided Engineering 24 (2017) 187–202 DOI 10.3233/ICA-170539 IOS Press</li>
 
-                        <li>[22]	LAN-DA VAN, (Senior Member, IEEE), YI-BING LIN, (Fellow, IEEE), TSUNG-HAN WU, AND TZU-HSIANG CHAO, “Green Elevator Scheduling Based on IoT Communications”, SPECIAL SECTION ON GREEN COMMUNICATIONS ON WIRELESS NETWORKS, DOI 10.1109/ACCESS.2020.2975248</li>
+                        <li>LAN-DA VAN, (Senior Member, IEEE), YI-BING LIN, (Fellow, IEEE), TSUNG-HAN WU, AND TZU-HSIANG CHAO, “Green Elevator Scheduling Based on IoT Communications”, SPECIAL SECTION ON GREEN COMMUNICATIONS ON WIRELESS NETWORKS, DOI 10.1109/ACCESS.2020.2975248</li>
 
-                        <li>[23]	Qiang Huang et al 2020 J. Phys.: Conf. Ser. 1621 012050, “Design and Implementation of an Elevator Power Failure Warning System”</li>
+                        <li>Qiang Huang et al 2020 J. Phys.: Conf. Ser. 1621 012050, “Design and Implementation of an Elevator Power Failure Warning System”</li>
 
-                        <li>[24]	Hyunmi Ryu, Guisun Lee, Sunggon Park, Sungguk Cho, and Byungkook Jeon, “Design and Implementation of a Smart Signage System based on the Internet of Things(IoT) for Elevators”, International Journal of Advanced Smart Convergence Vol.8 No.3 184-192 (2019) http://dx.doi.org/10.7236/IJASC.2019.8.3.184</li>
+                        <li>Hyunmi Ryu, Guisun Lee, Sunggon Park, Sungguk Cho, and Byungkook Jeon, “Design and Implementation of a Smart Signage System based on the Internet of Things(IoT) for Elevators”, International Journal of Advanced Smart Convergence Vol.8 No.3 184-192 (2019) http://dx.doi.org/10.7236/IJASC.2019.8.3.184</li>
 
-                        <li>[25]	Ning Ding, Hui Zhang and Tao Chen “Experimental Study of Egress Selection Behavior Between Stairs and Elevators During High-Rise Building Evacuation”, Fire Technology, 55, 1649–1670, 2019 © 2019 The Author(s) Manufactured in the United States.</li>
+                        <li>Ning Ding, Hui Zhang and Tao Chen “Experimental Study of Egress Selection Behavior Between Stairs and Elevators During High-Rise Building Evacuation”, Fire Technology, 55, 1649–1670, 2019 © 2019 The Author(s) Manufactured in the United States.</li>
 
-                        <li>[26]	Farid Mirahadi and Brenda McCabe, M.ASCE, “EvacuSafe: Building Evacuation Strategy Selection Using Route Risk Index”, Article in Journal of Computing in Civil Engineering, July 2019 DOI: 10.1061/(ASCE)CP.1943-5487.0000867</li>
+                        <li>Farid Mirahadi and Brenda McCabe, M.ASCE, “EvacuSafe: Building Evacuation Strategy Selection Using Route Risk Index”, Article in Journal of Computing in Civil Engineering, July 2019 DOI: 10.1061/(ASCE)CP.1943-5487.0000867</li>
 
-                        <li>[27]	Lan-Da Van, Senior Member, IEEE, Yi-Bing Lin, Fellow, IEEE, Tsung-Han Wu, and Yu-Chi Lin, “An Intelligent Elevator Development and Management System”, IEEE system journal, VOL. 14, No.2, JUNE 2020</li>
+                        <li>Lan-Da Van, Senior Member, IEEE, Yi-Bing Lin, Fellow, IEEE, Tsung-Han Wu, and Yu-Chi Lin, “An Intelligent Elevator Development and Management System”, IEEE system journal, VOL. 14, No.2, JUNE 2020</li>
 
-                        <li>[28]	Soraia Oueida Moayad Aloqaily and Sorin Ionescu, “A smart healthcare reward model for resource allocation in Smart city, Springer Science+Business Media, LLC, part of Springer Nature 2018</li>
+                        <li>Soraia Oueida Moayad Aloqaily and Sorin Ionescu, “A smart healthcare reward model for resource allocation in Smart city, Springer Science+Business Media, LLC, part of Springer Nature 2018</li>
 
-                        <li>[29]	Zihan Ming Shaoyi Han Zhanbin Zhang Shuang Xia, “Elevator Safety Monitoring System Based On Internet of Things”, iJOE Vol. 14, No. 8, 2018</li>
+                        <li>Zihan Ming Shaoyi Han Zhanbin Zhang Shuang Xia, “Elevator Safety Monitoring System Based On Internet of Things”, iJOE Vol. 14, No. 8, 2018</li>
 
-                        <li>[30]	Yoneda, Kenji, et al,” Multi-objective elevator supervisory-control system with individual floor-situation control.”. Hitachi Review 46.6(1997):267-274.</li>
+                        <li>Yoneda, Kenji, et al,” Multi-objective elevator supervisory-control system with individual floor-situation control.”. Hitachi Review 46.6(1997):267-274.</li>
 
                     </ol>
                 </h5>
