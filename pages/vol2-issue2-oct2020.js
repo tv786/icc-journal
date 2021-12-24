@@ -349,7 +349,7 @@ export default function AdvisoryBoard() {
                       href="#"
                       onClick={(event) => {
                         event.preventDefault();
-                        window.open("2020jul-aug-3.pdf");
+                        window.open("2020oct-3.pdf");
                       }}
                       target="_blank"
                       style={{ color: "#1565d4" }}
@@ -424,7 +424,7 @@ export default function AdvisoryBoard() {
                       href="#"
                       onClick={(event) => {
                         event.preventDefault();
-                        window.open("2020jul-aug-4.pdf");
+                        window.open("2020oct-4.pdf");
                       }}
                       target="_blank"
                       style={{ color: "#1565d4" }}
