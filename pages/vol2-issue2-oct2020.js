@@ -355,65 +355,60 @@ export default function AdvisoryBoard() {
                       style={{ color: "#1565d4" }}
                     >
                       {" "}
-                      One QR code for Ticketing System
+                      Face Recognition Attendance System
                     </a>{" "}
                   </b>
                 </h4>
                 <h5>
-                  <b>Author(s): </b> Ashima Arya, Sapna Juneja, Abhinav Juneja
+                  <b>Author(s): </b> Kanishka Bhardwaj, Vasu Goel, Sarthak Gupta, Baldivya Mitra
                 </h5>
                 <h5>
-                  <b>Abstract: </b> In our day to day routine life,we realize
-                  each work is effortlessly done by our cell phones utilizing
-                  their applications like shopping, study, online bill
-                  installments, business, and so on. Thus, everybody needs rapid
-                  and simple to utilize versatile applications that don't hang
-                  their telephones or not utilize a lot of extra room or need to
-                  take their business on the web. In this paper, the authors
-                  have developed two Android Apps as My Event Ticket and My
-                  Event Maker by using QR code. These two Apps check all
-                  necessities of things everybody needs in their applications
-                  like these Apps utilize less RAM, Storage, and Power of the
-                  telephone. The three main features of using QR CODE venture is
-                  First is utilization of One QR method right now just need
-                  their lasting QR code (that is made when the client makes the
-                  record right now) this QR Code clients can get the passage in
-                  each occasion the main need is the client purchases the ticket
-                  for those occasions. The second element of this venture is the
-                  utilization of constant database by this kind of database each
-                  adjustment in the application is done continuously or the
-                  application is quick and work on everybody telephone without
-                  giving overwhelming burden to the telephones and the third
-                  element of this application utilizes less calculation power on
-                  both the server and the customer side.
+                  <b>Abstract: </b> In this work we have proposed a Live Automated Attendance Marking System for institutional purpose. It is quite difficult to maintain manual attendance properly for a large number of students and maintain records of every class with day to day activities is a challenging  task as there might be some human errors like a proxy. Moreover, taking attendance consumes lot of time which can be utilized in making the concepts much clear. Some automated systems have been developed to get rid of issues such as accuracy and fake attendance. To solve these issues, highly automated face attendance system is required. In this system we are supposed to make an algorithm learn using different machine learning models, that will automatically recognize a student based on his different facial features, whenever, he appears in front of the web cam, and afterwards the record will be automatically updated based on the recognition and detection. Whenever the camera detects any face, our system will check the information related to it in the created database with the help of image-recognition technique. But there are multiple cases and different circumstances under which the user takes the picture thus, the image recognition algorithm should be an invariant in viewpoint and illuminations. Finally, the best match will be selected by computing the distance between the vectors of the captured image and the image present in the created database.
                 </h5>
                 <h5>
                     <b>Refrences: </b>
                     <ol>
-                        <li>L. Finžgar and M. Trebar, "Use of NFC and QR code identification in
-an electronic ticket system for public transport," SoftCOM 2011, 19th
-InternationalConference on Software, Telecommunications and
-Computer Networks, Split, 2011, pp. 1-6.</li>
-                        <li>R. Couto, J. Leal, P. M. Costa and, T. Galvão, "Exploring Ticketing
-Approaches Using Mobile Technologies: QR Codes, NFC and BLE,"
-2015 IEEE 18th International Conference on Intelligent
-Transportation Systems, Las Palmas, 2015, pp. 7-12.DOI:
-10.1109/ITSC.2015.9</li>
-                        <li>Jagodic, Dijana & Vujicic, Dejan & Ranđić, Siniša. (2015). Android
-system for identification of objects based on QR code. 922-925.
-10.1109/TELFOR.2015.7377616.</li>
-                        <li>Abdulhakeem, Wara & Dugga, Sunday. (2014). Enhancing User
-Experience using Mobile QR-Code Application. International Journal
-of Computer and Information Technology. 03. 1310-1315.</li>
+                        <li>L. Wang and D. He, Texture classification using texture spectrum, Pattern Recognition, 23(8)905-910, 1990.</li>
+
+                        <li>Computer vision: A Modern Approach By David A. Forsyth,Jean Ponce Prentice Hall,2002.</li>
+
+                        <li>Angshul Majumdar-Rabab K.“Multiresolution Methods in Face Recognition” in Recent  Advances in Face Recognition-2008.</li>
+
+                        <li>Recent Advances in Face Recognition Editors: KresimirDelac, MislavGrgic and Marian Stewart Barlett IN-TECh,Vienna,Austria,2008.</li>
+
+                        <li>Bhumika G. Bhatt, Zankhana H. Shah “Face Feature Extraction Techniques: A Survey”, National Conference on Recent Trends in Engineering & Technology, 13-14 May 2011.</li>
+
+                        <li>N. Khan and Balcoh, "Algorithm for efficient attendance management: Face recognition based approach", JCSI International Journal of computing , 2012.</li>
+
+                        <li>K Muthu Kalyani, "Smart Application For AMS using Face Recognition", CSEIJ 2013, 2013.</li>
+
+                        <li>R.  Tharanga,  Samarakoon,  Karunarathne,  Liyanage,  and  D.  Parer, </li>
+
+                        <li>S.  Chintalapati  and  M.  Raghunad,  “Automated  attendance </li>
+
+                        <li>P. Wagh, S. Patil, J. Chaudhari and R. Thakare, "Attendance System supported Face Recognition using Eigen face and PCA Algorithms", 2015.</li>
+
+                        <li>Shirodhkar, M. Sinha, V., Jain, U., Nemade, B.: Automated attendance management system using face recognition. Int. J. Comput. Appl.(2015). (0875-8887) International Conference and Workshop on Emerging Trends in Technology(ICWET 2015).</li>
+
+                        <li>Lerato Masupha,TranosZuva,SelemanNgwira,Omobayo Esan “Face 
+                        Recognition  Techniques,  Their  Advantages,  Disadvantages  And 
+                        Performance  Evaluation”  2015  International  Conference  On 
+                        Computing, Communication And Security(Icccs),1-5,2015.
+                        </li>
+
+                        <li>A. Jadhav, Akshay Jadhav, Tushar Ladhe, K.Yeolekar, "Automated Attendance System Using Face Recognition", International Research Journal of Engineering and Technology, Vol 4, Issued 1, Jan 2017.</li>
+
+                        <li>] A. Raj-MahammedShoheb-K  Arvind-K Chethan – 2020 Internationa Conference on Intelligent Engineering and Management(ICIEM).</li>
+
                     </ol>
                 </h5>
                 <h5>
-                  <b>Pages: 11-16</b>
+                  <b>Pages: 17-23</b>
                 </h5>
                 <h5>
                 <b>Cite As </b>
                 <br/>
-                <p>Arya, Ashima, Juneja, Sapna, &Juneja, Abhinav. (2020). One QR code for Ticketing System. Innovative computing and communication: an international journal, 2(1), 11–15.<br/> http://doi.org/10.5281/zenodo.4743817</p>
+                <p>Kanishka Bhardwaj, Vasu Goel, Sarthak Gupta, Baldivya Mitra (2020). Face Recognition Attendance System. Innovative computing and communication: an international journal.<br/> http://doi.org/10.5281/zenodo.4743817</p>
                 </h5>
               </CardBody>
             </Card>
@@ -435,220 +430,94 @@ of Computer and Information Technology. 03. 1310-1315.</li>
                       style={{ color: "#1565d4" }}
                     >
                       {" "}
-                      Motion Transfer in Videos using DCGAN
+                      Design of Smart and Secure Elevator System in High-Rise Building
                     </a>{" "}
                   </b>
                 </h4>
                 <h5>
-                  <b>Author(s): </b> Moolchand Sharma, Prerna Sharma, Manish
-                  Kumar Jha, Rohan Singh
+                  <b>Author(s): </b> Liza Jain, Vaishnavi S, Piyush Rathi, Ashish Khanna
                 </h5>
                 <h5>
-                  <b>Abstract: </b> Motion Transfer has a wide variety of
-                  applications, such as creating motion synchronized videos in
-                  film industries and video making apps. The research paper
-                  presents a novel approach for motion transfer from a source
-                  video to the target person. This approach focuses on the video
-                  to video translation using various poses generated in the
-                  frames of video for translation. The approach makes use of
-                  Pose Generation Convolutional Neural Network to synthesize
-                  arbitrary poses from source videos and train the pix2pix –
-                  DCGAN(Deep Convolutional Generative Adversarial Networks),
-                  which is a conditional generative adversarial network
-                  consisting of multi-scale discriminator and generator for
-                  target video frames generation. It uses PatchGAN loss, VGG
-                  loss, and Feature Matching Loss function for improving and
-                  optimizing models. The presented approach provides compelling
-                  results of the generated DCGAN model with the discriminator
-                  loss of 0.0003 and a generator loss of 5.8206.
+                  <b>Abstract: </b> Due to the increasing complexity of modern buildings, the effective operations of transportation systems like elevators are vital. Elevators are potentially invaluable in certain emergencies. Further, quick evacuation of the passengers in case of fire or earthquake needs to be possible. The introduced research work proposes an astute lift with the setting of a keen structure. A decision engine is designed and implemented that can control the elevator’s action if there should arise an occurrence of debacles accordingly guaranteeing client safety. The system works in two modes, i.e., the normal mode and the emergency mode. In normal mode, the system utilizes the information provided by the fuzzy rules and cameras with image recognition software to reduce the waiting time thus improving user satisfaction. In the emergency mode, the algorithm imposes certain conditions on the usage of the elevator in times of fire, building collapse, or earthquakes. Moreover, the movement of the elevator is faster in the emergency mode as compared to the normal mode.
                 </h5>
                 <h5>
                     <b>Refrences: </b>
                     <ol>
-                        <li>G.K.M Cheung, S. Baker, J. Hodgins, and T. Kanade
-(2004). “Markerless human motion transfer.” In 3D Data
-Processing, Visualization, and Transmission, 2004.
-3DPVT, 2004; Proceedings. 2nd International Symposium
-.pp. 373–378. IEEE, 2004.</li>
-                        <li>D. Casas, M. Volino, J. Collomosse (2014). 4D Video
-Textures for Interactive Character Appearance. Computer
-Graphics Forum (Proceedings of EUROGRAPHICS),
-Vol. 33, Issue 2, pp. 371–380.</li>
-                        <li>S. Tulyakov, M. Liu, X. Yang, and J. Kautz (2018).
-MoCoGAN: Decomposing motion and content for video
-generation. IEEE Conference on Computer Vision and
-Pattern Recognition (CVPR)</li>
-                        <li>R. Villegas, J. Yang, D Ceylan, and H. Lee(2018).
-“Neural kinematic networks for unsupervised motion
-retargeting.” The IEEE Conference on Computer Vision
-and Pattern Recognition (CVPR).</li>
-                        <li>K. Aberman, M. Shi, J. Liao, D. Liscbinski, and B.
-Chen (2019). “Deep video-based performance cloning. In
-Computer Graphics” Forum, Vol. 38, pp. 219–233. Wiley
-Online Library.</li>
-                        <li>A. Bansal, S. Ma, D. Ramanan, and Y. Sheikh(2018).
-Recycle-gan: Unsupervised video retargeting. In ECCV.</li>
-                        <li>A. Efros, A. Berg, G. Mori, and J. Malik (2003).
-Recognizing action at a distance. In IEEE International
-Conference on Computer Vision, pp. 726–733, Nice,
-France.</li>
-                        <li>A. Toshev, and C. Szegedy (2014) . Deeppose:
-Human pose estimation via deep neural networks. In
-CVPR.</li>
-                        <li>C. Chou, J. Chien and H. Chen(2018).
-"Self-Adversarial Training for Human Pose Estimation,"
-2018 Asia-Pacific Signal and Information Processing
-Association Annual Summit and Conference (APSIPA
-ASC), Honolulu, HI, USA, pp. 17-30</li>
-                        <li>W. Yang, W. Ouyang, X. Wang, J. Ren, H. Li and X.
-Wang(2018) "3D Human Pose Estimation in the Wild by
-Adversarial Learning," 2018 IEEE/CVF Conference on
-Computer Vision and Pattern Recognition, Salt Lake City,
-UT, pp. 5255-5264.</li>
-                        <li>Hidalgo, Gines, Yaser Sheikh, Kris M. Kitani,
-Aayush Bansal, Ramon Sanabria, Donglai Xiang, Xiu Li,
-and Haroon Idrees(2019) “OpenPose: Whole-Body Pose
-Estimation.”</li>
-                        <li>Chen, Xu, Jie Song, and Otmar Hilliges (2019)
-“Unpaired Pose Guided Human Image Generation.” ArXiv
-abs/1901.02284 (2019).</li>
-                        <li>Cao, Zhe, Gines Hidalgo Martinez, Tomas Simon,
-Shih-En Wei, and Yaser Sheikh(2018). “OpenPose:
-Realtime Multi-Person 2D Pose Estimation using Part
-Affinity Fields.” IEEE transactions on pattern analysis
-and machine intelligence.</li>
-                        <li>Y. Zhou, Z. Wang, C. Fang, T. Bui, and T. Berg
-(2019). “Dance generation: Motion transfer for internet
-videos.” arXiv preprint arXiv:1904.00129 .</li>
-                        <li>L. Liu, W. Xu, M. Zollhofer, H. Kim, F. Bernard, M.
-Habermann, W. Wang, and C. Theobalt (2019) “Neural
-rendering and reenactment of human actor videos.” ACM
-Trans. Graph., Vol. 38, Issue 5,pp. 139:1–139:14 .</li>
-                        <li>Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu,
-Andrew Tao, Jan Kautz, and Bryan Catanzaro.
-"High-Resolution Image Synthesis and Semantic
-Manipulation with Conditional GANs," in CVPR, 2018.</li>
-                        <li>Jun-Yan Zhu, Taesung Par*, Phillip Isola, and
-                        Alexei A. Efros(2017) "Unpaired Image-to-Image
-                        Translation using Cycle-Consistent Adversarial
-                        Networks" in IEEE International Conference on Computer
-                        Vision (ICCV), .</li>
-                        <li>Taeksoo Kim, Moonsu Cha, Hyunsoo Kim, Jung
-Kwon Lee, and Jiwon Kim. (2017). Learning to discover
-cross-domain relations with generative adversarial
-networks. In Proceedings of the 34th International
-Conference on Machine Learning – Vol. 70 (ICML'17),
-Doina Precup and Yee Whye Teh (Eds.), Vol. 70.
-JMLR.org ,pp. 1857-1865.</li>
-                        <li>Ma, Liqian & Jia, Xu & Sun, Qianru & Schiele,
-Bernt & Tuytelaars, Tinne & Van Gool, Luc. (2017). Pose
-Guided Person Image Generation.</li>
-                        <li>Feng Xu, Liu, Carsten Stoll, Gaurav Bhara, James
-Tompkin, Qionghai Dai, Hans-Peter Seidel, Jan Kautz,
-and Theobalt (2011). Video-based characters: creating
-new human performances from a multi-view video
-database. In ACM Transactions with Graphics (TOG),
-volume 30, page 32. ACM.</li>
-                        <li>Dan Casas, Marco Volino, John Collomosse, and
-Adrian Hilton. 4D Video Textures for Interactive
-Character Appearance. Computer Graphics Forum</li>
-                        <li>Y. Liu, and O. Tuzel (2016). Coupled generative
-adversarial networks. In NIPS .</li>
-                        <li>D. Wei, X. Xu, H. Shen, and K. Huang.
-(2020).GAC-GAN: A General Method for
-Appearance-Controllable Human Video Motion Transfer.</li>
-                        <li>A. Shrivastava, T. Pfister, O. Tuzel, J. Susskind, W.
-Wang. (2017) Learning from Simulated and Unsupervised
-Images through Adversarial Training.</li>
-                        <li>P. Isola Jun-Yan Zhu T. Zhou and A. Efros(2018).
-Image-to-Image Translation with Conditional Adversarial
-Networks.</li>
+                        <li>[1]	Ge Hangli, Takeo Hamada, Takahiro Sumitomo, and Noboru Koshizuka, (Member, IEEE), “Intelevator: An Intelligent Elevator System Proactive in Traffic Control for Time-Efficiency Improvement”, Digital Object Identifier 10.1109/ACCESS.2020.2975020.</li>
+
+                        <li>[2]	Chia Tai (Angus) Lai, Paul R. Jackson & Wei Jiang, “Shifting paradigm to service-dominant logic via Internet-of-Things with applications in the elevators industry”, Journal of Management Analytics, 4:1, 35-54, DOI: 10.1080/23270012.2016.1259967.</li>
+
+                        <li>[3]	Ali ÖZCAN, Uğur Orhan KARAKÖPRÜ2, Erhan YAP,  “Choosing Intelligent Elevator Control System by Using Analytic Hierarchy Process in High-Rise Buildings”.</li>
+
+                        <li>[4]	Vasilios Nurislam Tursynbek, “Intelligent Elevators in a Smart building”, Future Technologies Conference (FTC) 2017 29-30 November, Vancouver, Canada.</li>
+
+                        <li>[5]	Yerzhigit Bapin, Kanat Alimanov, and Vasilios Zarikas, “Camera-Driven Probabilistic Algorithm for Multi-Elevator Systems”, Energies | An Open Access Journal from MDPI</li>
+
+                        <li>[6]	Chang-Su Ryu, “IoT-based Intelligent for Fire Emergency Response Systems”, International Journal of Smart Home Vol. 9, No. 3 (2015).</li>
+
+                        <li>[7]	Dan Shi and Bixi Xu 2018 IOP Conf. Ser.: Mater. Sci. Eng. 366 012076, “Intelligent elevator control and safety monitoring system”, IOP Conference Series: Materials Science and Engineering</li>
+
+                        <li>[8]	J.Fernandez, P.Cortes, Member, IEEE, J.Munuzuri, and J.Guadix, “Dynamic Fuzzy Logic Elevator Group Control System With Relative Waiting Time Consideration”</li>
+
+                        <li>[9]	Xuexia Zhang and Ying Shang 2020 J. Phys.: Conf. Ser. 1646 012116, ”Design and Research of Elevator Group Control System Based on PLC”, Journal of Physics: Conference Series</li>
+
+                        <li>[10]	Uljana Reinsalu, “Floor Selection Proposal for Automated Travel with Smart Elevator”, DOI: 10.1007/978-3-030-57672-1_4.</li>
+
+                        <li>[11]	Tarmo ROBAL, Uljana REINSALU, Mairo LEIER, Noboru Koshizuka, “Towards Personalized Elevator Travel with Smart Elevator System”, Baltic J. Modern Computing, Vol. 8 (2020), No. 4, pp.675–697</li>
+
+                        <li>[12]	Hamza Ijaz Abbasi, Abdul Jabbar Siddiqui,” Implementation of Smart Elevator System based on Wireless Multi-hop AdHoc Sensor Networks”, 978-1-4673-0498-6/11/$26.00 2011 IEEE</li>
+
+                        <li>C[13]	Robert H. Crites and Andrew G. Barto, “Improving Elevator Performance Using Reinforcement Learning”.</li>
+
+                        <li[14]	Lee, Jiung, “Optimization for Urban Mobility Systems”, UC Berkeley Electronic Theses and Dissertations https://escholarship.org/uc/item/0zj695rp.</li>
+
+                        <li>[15]	Ms. Disha Chandankhede, Ms. Shraddha Lokhande, Ms. Jayashri Belkhode, Ms.Sonu Dhabarde Ms. Rajshree Patil, “SMART ELEVATOR SYSTEM”, International Journal of Research In Science & Engineering Volume: 3 Issue:2 March-April 2017</li>
+
+                        <li>[16]	Janne Sorsa, Henri Hakonen and Marja-Liisa Siikonen, “Elevator Selection with Destination Control System”,   PEKING 2005, the International Congress on Vertical Transportation Technologies and first published in IAEE book "Elevator Technology 15", edited by A. Lustig. It is a reprint with permission from The International Association of Elevator Engineers  [website www.elevcon.com]</li>
+
+                        <li>[17]	Jiwen Chen1,2,* – Xin Li1,2 – Hongjuan Yang3 – Chen Wang1,2, “Innovative Design of a Vertical and Transverse Elevator in Double Shafts, Based on TRIZ Theory”, Strojniški Vestnik - Journal of Mechanical Engineering 65(2019)5, 297-310</li>
+
+                        <li>[18]	C Ciflikli and E O Tartan, “Arrival Probability-Based Parking Algorithm for Elevator Group Control Systems”, To cite this article: C Ciflikli and E O Tartan 2019 J. Phys.: Conf. Ser. 1425 012130</li>
+
+                        <li>[19]	Cebrail Ciflikli & Emre Öner Tartan (2019): A model for the visualization and analysis of elevator traffic, Transportation Planning and Technology, DOI: 10.1080/03081060.2019.1675326</li>
+
+                        <li>[20]	Ge Hangli, Takeo Hamada, Takahiro Sumitomo, Noboru Koshizuka, “PrecaElevator: Towards Zero-Waiting Time on Calling Elevator By Utilizing Context-Aware Platform in Smart Building”, 2018 IEEE 7th Global Conference on Consumer Electronics (GCCE 2018)</li>
+
+                        <li>[21]	Sungyong Ahn, Soyoon Lee and Hyokyung Bahn, “A smart elevator scheduler that considers dynamic changes of energy cost and user traffic”, Integrated Computer-Aided Engineering 24 (2017) 187–202 DOI 10.3233/ICA-170539 IOS Press</li>
+
+                        <li>[22]	LAN-DA VAN, (Senior Member, IEEE), YI-BING LIN, (Fellow, IEEE), TSUNG-HAN WU, AND TZU-HSIANG CHAO, “Green Elevator Scheduling Based on IoT Communications”, SPECIAL SECTION ON GREEN COMMUNICATIONS ON WIRELESS NETWORKS, DOI 10.1109/ACCESS.2020.2975248</li>
+
+                        <li>[23]	Qiang Huang et al 2020 J. Phys.: Conf. Ser. 1621 012050, “Design and Implementation of an Elevator Power Failure Warning System”</li>
+
+                        <li>[24]	Hyunmi Ryu, Guisun Lee, Sunggon Park, Sungguk Cho, and Byungkook Jeon, “Design and Implementation of a Smart Signage System based on the Internet of Things(IoT) for Elevators”, International Journal of Advanced Smart Convergence Vol.8 No.3 184-192 (2019) http://dx.doi.org/10.7236/IJASC.2019.8.3.184</li>
+
+                        <li>[25]	Ning Ding, Hui Zhang and Tao Chen “Experimental Study of Egress Selection Behavior Between Stairs and Elevators During High-Rise Building Evacuation”, Fire Technology, 55, 1649–1670, 2019 © 2019 The Author(s) Manufactured in the United States.</li>
+
+                        <li>[26]	Farid Mirahadi and Brenda McCabe, M.ASCE, “EvacuSafe: Building Evacuation Strategy Selection Using Route Risk Index”, Article in Journal of Computing in Civil Engineering, July 2019 DOI: 10.1061/(ASCE)CP.1943-5487.0000867</li>
+
+                        <li>[27]	Lan-Da Van, Senior Member, IEEE, Yi-Bing Lin, Fellow, IEEE, Tsung-Han Wu, and Yu-Chi Lin, “An Intelligent Elevator Development and Management System”, IEEE system journal, VOL. 14, No.2, JUNE 2020</li>
+
+                        <li>[28]	Soraia Oueida Moayad Aloqaily and Sorin Ionescu, “A smart healthcare reward model for resource allocation in Smart city, Springer Science+Business Media, LLC, part of Springer Nature 2018</li>
+
+                        <li>[29]	Zihan Ming Shaoyi Han Zhanbin Zhang Shuang Xia, “Elevator Safety Monitoring System Based On Internet of Things”, iJOE Vol. 14, No. 8, 2018</li>
+
+                        <li>[30]	Yoneda, Kenji, et al,” Multi-objective elevator supervisory-control system with individual floor-situation control.”. Hitachi Review 46.6(1997):267-274.</li>
+
                     </ol>
                 </h5>
                 <h5>
-                  <b>Pages: 17-24</b>
+                  <b>Pages: 24-28</b>
                 </h5>
                 <h5>
                 <b>Cite As </b>
                 <br/>
-                <p>Sharma, Moolchand, Sharma, Prerna, Jha, Manish Kumar, & Singh, Rohan. (2020). MOTION TRANSFER IN VIDEOS USING DCGAN. Innovative computing and communication: an international journal, 2(1), 17–24.<br/> http://doi.org/10.5281/zenodo.4743820</p>
+                <p>Liza Jain, Vaishnavi S, Piyush Rathi, Ashish Khanna (2020). MDesign of Smart and Secure Elevator System in High-Rise Building. Innovative computing and communication: an international journal.<br/> http://doi.org/10.5281/zenodo.4743820</p>
                 </h5>
               </CardBody>
             </Card>
           </GridItem>
 
-          <GridItem xs={12} sm={12} md={12}>
-            <Card>
-              <CardBody>
-                <h4>
-                  <b>
-                    Title :{" "}
-                    <a
-                      href="#"
-                      onClick={(event) => {
-                        event.preventDefault();
-                        window.open("2020jul-aug-5.pdf");
-                      }}
-                      target="_blank"
-                      style={{ color: "#1565d4" }}
-                    >
-                      {" "}
-                      An improved K-Means Clustering with Machine Learning based
-                      Sentiment Analysis and Classification Model
-                    </a>{" "}
-                  </b>
-                </h4>
-                <h5>
-                  <b>Author(s): </b> M. Iiayaraja
-                </h5>
-                <h5>
-                  <b>Abstract: </b> Sentiment analysis (SA) involves the task of
-                  automatically extracting the sentiments from user reviews via
-                  Natural Language Processing (NLP), data mining, and machine
-                  learning (ML) models. A major intention of SA is to identify
-                  the opinion and sentiments. It becomes helpful in the decision
-                  making of the customers whether to purchase an item or not.
-                  This paper develops an improved K-means clustering with random
-                  forest (RF) classification model called IKC-RF for effective
-                  SA. In order to handle the huge amount of online product
-                  reviews, K-means clustering technique is utilized to cluster
-                  the sentiments into appropriate class labels. Initially, the
-                  online product reviews are preprocessed and feature extraction
-                  process takes place. Next, clustering process is carried out
-                  by K-means clustering and finally, classification is done by
-                  RF technique. The application of clustering technique helps to
-                  handle the massive increase in dataset. The performance of the
-                  IKC-RF model is evaluated and the results are examined under
-                  distinct aspects.
-                </h5>
-                <h5>
-                    <b>Refrences: </b>
-                    <ol>
-                        <li>S. Chen, B. Mulgrew, and P. M. Grant, “A clustering technique
-for digital communications channel equalization using radial
-basis function networks,” IEEE Trans. on Neural Networks,
-vol. 4, pp. 570-578, July 1993.</li>
-                        <li>J. U. Duncombe, “Infrared navigation—Part I: An assessment
-of feasibility,” IEEE Trans. Electron Devices, vol. ED-11, pp.
-34-39, Jan. 1959.</li>
-                        <li>C. Y. Lin, M. Wu, J. A. Bloom, I. J. Cox, and M. Miller,
-“Rotation, scale, and translation resilient public watermarking
-for images,” IEEE Trans. Image Process., vol. 10, no. 5, pp.
-767-782, May 2001.</li>
-                    </ol>
-                </h5>
-                <h5>
-                  <b>Pages: 25-30</b>
-                </h5>
-                <h5>
-                <b>Cite As </b>
-                <br/>
-                <p>Ilayaraja, M. (2020). An Improved K-Means Clustering with Machine Learning Based Sentiment Analysis and Classification Model. Innovative computing and communication: an international journa, 2(1), 25–29.<br/> http://doi.org/10.5281/zenodo.4743822</p>
-                </h5>
-              </CardBody>
-            </Card>
-          </GridItem>
-        </GridContainer>
+          
       </ExpansionPanelDetails>
     </div>
   );
