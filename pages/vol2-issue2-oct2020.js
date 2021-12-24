@@ -212,7 +212,7 @@ export default function AdvisoryBoard() {
                       href="#"
                       onClick={(event) => {
                         event.preventDefault();
-                        window.open("2020jul-aug-2.pdf");
+                        window.open("2020oct-2.pdf");
                       }}
                       target="_blank"
                       style={{ color: "#1565d4" }}
