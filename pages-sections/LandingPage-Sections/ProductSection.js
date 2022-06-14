@@ -50,7 +50,7 @@ export default function ProductSection() {
           <h2 className={classes.title}>
             About{' '}
             <a href="http://universal-inovators.com" target="_blank">
-              Universal Innovators
+              Universal Inovators
             </a>
           </h2>
           <h5 className={classes.description} style={justify}>
